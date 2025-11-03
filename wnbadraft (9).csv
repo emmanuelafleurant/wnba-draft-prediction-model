@@ -1,0 +1,1065 @@
+overall_pick,year,team,player,college/former,position,height,years_played,games,win_shares,win_shares_40,minutes_played,points,total_rebounds,assists,spg,bpg,fg%,3-fg%,ft%
+1,2022,Atlanta Dream,Rhyne Howard,Kentucky,Guard,6'2,1,34,2.9,0.11,31.4,16.2,4.5,2.8,1.6,0.8,36.1%,34.3%,79.2%
+2,2022,Indiana Fever,NaLyssa Smith,Baylor,Forward,6'4,1,32,0,-0.001,30.7,13.5,7.9,1.4,0.5,0.3,41.9%,38.1%,61.8%
+3,2022,Washington Mystics,Shakira Austin,Ole Miss,Forward,6'5,1,36,3.1,0.16,21.6,8.7,6.5,0.9,0.8,0.8,54.7%,0%,62.4%
+4,2022,Indiana Fever,Emily Engstler,Louisville,Forward,6'1,1,35,0.4,0.024,18.2,5.2,5.2,1.5,0.8,1.1,39.6%,35.6%,55.3%
+5,2022,New York Liberty,Nyara Sabally,Oregon,Center,6'5,0,null,null,null,null,null,null,null,null,null,null,null,null
+6,2022,Indiana Fever,Lexie Hull,Stanford,Guard,6'1,1,26,-0.4,-0.043,12.8,3.8,1.5,0.7,0.6,0.1,26.7%,18.6%,90%
+7,2022,Dallas Wings,Veronica Burton,Northwestern,Guard,5'9,1,36,0.9,0.065,15.2,2.6,1.5,1.9,0.9,0.3,32.9%,27.9%,100%
+8,2022,Minnesota Lynx,Mya Hollingshed,Colorado,Forward,6'3,0,null,null,null,null,null,null,null,null,null,null,null,null
+9,2022,Los Angeles Sparks,Rae Burrell,Tennessee,Guard,6'2,1,3,-0.1,-0.111,14.7,1.7,1,0.3,0.7,0,11.1%,16.7%,100%
+10,2022,Indiana Fever,Queen Egbo,Baylor,Center,6'4,1,33,0,0.003,21.8,7.2,6.3,0.9,0.9,1.2,44.2%,0%,64.5%
+11,2022,Las Vegas Aces,Kierstan Bell,Florida Gulf Coast,Forward,6'1,1,21,-0.1,-0.024,5.8,1.3,0.9,0.3,0.1,0.1,30.3%,13.6%,100%
+12,2022,Connecticut Sun,Nia Clouden,Michigan State,Guard,5'9,1,28,0.4,0.062,8.9,2.1,0.8,0.8,0.2,0,34%,41.4%,58.8%
+13,2022,Minnesota Lynx,Khayla Pointer,LSU,null,null,1,10,-0.1,-0.092,5.8,2.2,0.8,0.2,null,null,null,null,null
+14,2022,Washington Mystics,Christyn Williams,UConn,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+15,2022,Atlanta Dream,Naz Hillmon,Michigan,null,null,1,34,1.5,0.087,19.8,4.4,5.1,1.2,null,null,null,null,null
+16,2022,Los Angeles Sparks,Kianna Smith,Louisville,null,null,1,11,-0.2,-0.054,10.3,2.6,0.8,0.5,null,null,null,null,null
+17,2022,Seattle Storm,Elissa Cunane,NC State,null,null,1,3,0,0.012,3.3,0.7,1.7,0,null,null,null,null,null
+18,2022,Seattle Storm,Lorela Cubaj,Georgia Tech,null,null,1,11,0,-0.013,8,0.7,2.1,0.4,null,null,null,null,null
+19,2022,Los Angeles Sparks,Olivia Nelson-Ododa,UConn,null,null,1,30,0.5,0.044,14.5,4,2.9,0.4,null,null,null,null,null
+20,2022,Indiana Fever,Destanni Henderson,South Carolina,null,null,1,36,-0.3,-0.018,16.4,5.3,1.6,2.5,null,null,null,null,null
+21,2022,Seattle Storm,Evina Westbrook,UConn,null,null,1,20,0,0.009,10.3,2.8,1,1.2,null,null,null,null,null
+22,2022,Minnesota Lynx,Kayla Jones,NC State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2022,Las Vegas Aces,Aisha Sheppard,Virginia Tech,null,null,1,23,-0.2,-0.04,7.6,1.5,0.6,0.3,null,null,null,null,null
+24,2022,Connecticut Sun,Jordan Lewis,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2022,Indiana Fever,Meshya Williams-Holliday,Jackson State University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2022,Phoenix Mercury,Maya Dodson,Notre Dame,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2022,Los Angeles Sparks,Amy Atwell,Hawaii,null,null,1,4,-0.2,-0.274,8,0.8,0.5,0.5,null,null,null,null,null
+28,2022,Minnesota Lynx,Hannah Sjerven,South Dakota,null,null,1,3,0,-0.09,3,0,0,0,null,null,null,null,null
+29,2022,New York Liberty,Sika KonÃ©,Mali,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2022,Dallas Wings,Jasmine Dickey,University of Delaware,null,null,1,20,-0.3,-0.143,4.7,1.1,0.6,0.1,null,null,null,null,null
+31,2022,Dallas Wings,Jazz Bond,University of North Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2022,Phoenix Mercury,Macee Williams,IUPUI,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2022,Seattle Storm,Jade Melbourne,Australia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2022,Indiana Fever,Ali Patberg,Indiana,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2022,Las Vegas Aces,Faustine Aifuwa,LSU,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2022,Connecticut Sun,Kiara Smith,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2021,Dallas Wings,Charli Collier,Texas,Forward,6'5,2,45,0.5,0.046,9.4,2.9,2.5,0.2,0.1,0.1,46%,0%,70.3%
+2,2021,Dallas Wings,Awak Kuier,Finland,Forward,6'6,2,49,0.5,0.038,11.4,2.6,2.5,0.8,0.4,0.9,36.2%,18.2%,67.4%
+3,2021,Atlanta Dream,Aari McDonald,Arizona,Guard,5'6,2,66,2.3,0.068,20.7,8.9,2,2.3,1.1,0.1,37.7%,32.5%,86.6%
+4,2021,Indiana Fever,Kysre Gondrezick,West Virginia,Guard,5'9,1,19,-0.6,-0.129,9.1,1.9,1,0.9,0.4,0,28.3%,28.6%,50%
+5,2021,Dallas Wings,Chelsea Dungee,Arkansas,Guard,5'10,1,14,-0.3,-0.159,4.6,0.6,0.2,0.1,0,0.1,17.6%,20%,0%
+6,2021,New York Liberty,Michaela Onyenwere,UCLA,Forward,6'0,2,66,1.1,0.038,17.8,6.6,2.5,0.5,0.7,0.2,39.7%,31.9%,86.5%
+7,2021,Los Angeles Sparks,Jasmine Walker,Alabama,Forward,6'3,2,34,-1,-0.134,8.9,1.5,1.4,0.2,0.2,0.1,23.5%,18.5%,60%
+8,2021,Chicago Sky,Shyla Heal,Australia,Guard,5'6,1,4,-0.3,-0.41,7.8,2,0.8,0.8,0,0,12.5%,0%,100%
+9,2021,Minnesota Lynx,Rennia Davis,Tennessee,Guard-Forward,6'1,1,8,-0.1,-0.134,5.4,1.3,1,0.1,0.3,0,38.5%,0%,0%
+10,2021,Los Angeles Sparks,Stephanie Watts,UNC,Guard,5'11,1,6,-0.1,-0.061,14,2.5,3.7,0.5,0.5,0.3,21.1,10%,75%
+11,2021,Seattle Storm,Aaliyah Wilson,Texas A&M,Guard,5'11,1,14,-0.5,-0.165,8.5,1.1,0.9,0.6,0.2,0.1,23.1,14.3%,50%
+12,2021,Las Vegas Aces,Iliana Rupert,France,Center,6'4,1,17,0.5,0.096,13.1,3.8,2.3,0.9,0.4,0,46.3%,36.8%,33.3%
+13,2021,Dallas Wings,Dana Evans,Louisville,null,null,2,62,0.7,0.045,9.7,3.8,0.6,1.1,null,null,null,null,null
+14,2021,Las Vegas Aces,Destiny Slocum,Arkansas,null,null,2,24,0.1,0.018,7.3,1.5,1,0.7,null,null,null,null,null
+15,2021,Atlanta Dream,Raquel Carrera Quintana,Spain,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+16,2021,Chicago Sky,Natasha Mack,Oklahoma State,null,null,1,4,0,0.065,4.5,1.5,1,0,null,null,null,null,null
+17,2021,New York Liberty,DiDi Richards,Baylor,null,null,2,45,0.1,0.009,11.1,2.3,1.3,1,null,null,null,null,null
+18,2021,Seattle Storm,Kiana Williams,Stanford,null,null,2,14,-0.1,-0.092,4.6,0.6,0.4,0.5,null,null,null,null,null
+19,2021,Indiana Fever,Unique Thompson,Auburn,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2021,Connecticut Sun,DiJonai Carrington,Baylor,null,null,2,60,1.3,0.059,14.2,5.2,2.6,0.8,null,null,null,null,null
+21,2021,Connecticut Sun,Micaela Kelly,Central Michigan University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2021,Los Angeles Sparks,Arella Guirantes,Rutgers University,null,null,1,25,-0.4,-0.051,11.6,3.2,1.3,0.6,null,null,null,null,null
+23,2021,Seattle Storm,N'dea Jones,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2021,Indiana Fever,Trinity Baptiste,Arizona,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2021,New York Liberty,Valerie Higgins,University of the Pacific,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2021,Indiana Fever,Chelsey Perry,University of Tennessee at Martin,null,null,1,6,-0.1,-0.115,6.7,2.2,1,0.3,null,null,null,null,null
+27,2021,Atlanta Dream,Lindsey Pulliam,Northwestern,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2021,Los Angeles Sparks,Ivana Raca,Wake Forest,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2021,New York Liberty,Marine Fauthoux,France,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2021,Connecticut Sun,Aleah Goodman,Oregon State,null,null,1,1,0,0.206,3,0,0,1,null,null,null,null,null
+31,2021,Indiana Fever,Florencia Chagas,Argentina,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2021,Phoenix Mercury,Ciera Johnson,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2021,Indiana Fever,Maya Caldwell,Georgia,null,null,1,9,0.7,0.138,23.8,10.9,2.4,2.2,null,null,null,null,null
+34,2021,Los Angeles Sparks,Aina Ayuso,Spain,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2021,Seattle Storm,Natalie Kucowski,Lafayette College,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2021,Las Vegas Aces,Kionna Jeter,Towson University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2020,New York Liberty,Sabrina Ionescu,Oregon,Guard,5'11,3,69,5.9,0.11,31,15,6.3,6.1,0.9,0.4,40.1%,33.2%,92.9%
+2,2020,Dallas Wings,Satou Sabally,Oregon,Forward,6'4,3,44,2.4,0.086,25.3,12.5,6.3,2.5,0.5,0.7,39.5%,25.3%,84.7%
+3,2020,Indiana Fever,Lauren Cox,Baylor,Forward,6'4,2,40,0.6,0.053,12.2,3,3.1,0.8,0.5,0.5,39.7%,31.6%,80%
+4,2020,Atlanta Dream,Chennedy Carter,Texas A&M,Guard,5'9,3,51,0.9,0.035,21.2,12.7,1.9,2.7,0.7,0.4,45.8%,28.6%,80.3%
+5,2020,Dallas Wings,Bella Alarie,Princeton,Center-Forward,6'4,2,53,1.4,0.076,13.5,2.6,3.1,0.5,0.6,0.7,43.1%,6.7%,84.4%
+6,2020,Minnesota Lynx,Mikiah Herbert Harrigan,South Carolina,Forward,6'2,2,22,0.2,0.029,10.7,3.6,2.2,0.3,0.4,0.4,36.6%,42.4%,71.4%
+7,2020,Dallas Wings,Tyasha Harris,South Carolina,Guard,5'10,3,88,1.6,0.044,16.9,5.2,1.2,2.7,0.5,0.2,38.8%,33.2%,76%
+8,2020,Chicago Sky,Ruthy Hebard,Oregon,Forward,6'4,3,76,3.7,0.14,13.9,4.7,3.4,0.6,0.5,0.4,58.5%,0%,76.5%
+9,2020,New York Liberty,Megan Walker,UConn,Forward,6'1,3,59,-1.2,-0.066,12.6,3.9,1.3,0.6,0.2,0.1,32.2%,24.1%,63.4%
+10,2020,Phoenix Mercury,Jocelyn Willoughby,Virginia,Forward-Guard,6'0,2,33,-0.1,-0.006,15.3,4.8,2.2,0.7,0.6,0.3,36.6%,38.7%,81.7%
+11,2020,Seattle Storm,Kitija Laksa,Latvia,Guard,6'1,0,null,null,null,null,null,null,null,null,null,null,null,null
+12,2020,New York Liberty,Jazmine Jones,Louisville,Guard,6'0,3,55,-0.3,-0.015,16.8,6.9,2.7,1.4,0.8,0.3,37.8%,34.7%,76.3%
+13,2020,New York Liberty,Kylee Shook,Louisville,null,null,2,50,0.4,0.02,17.1,5,3.5,1,null,null,null,null,null
+14,2020,Indiana Fever,Kathleen Doyle,Iowa,null,null,1,18,-0.7,-0.189,8.6,1.5,0.8,1.1,null,null,null,null,null
+15,2020,New York Liberty,Leaonna Odom,Duke,null,null,2,40,1.1,0.063,16.8,4.4,1.8,0.6,null,null,null,null,null
+16,2020,Minnesota Lynx,Crystal Dangerfield,UConn,null,null,3,85,3.9,0.079,23.1,8.9,2,2.9,null,null,null,null,null
+17,2020,Atlanta Dream,Brittany Brewer,Texas Tech,null,null,1,5,0.1,0.065,6.6,0.8,1,0,null,null,null,null,null
+18,2020,Phoenix Mercury,Te'a Cooper,Baylor,null,null,2,51,0.3,0.012,20.1,8.2,1.5,1.6,null,null,null,null,null
+19,2020,Seattle Storm,Joyner Holmes,Texas,null,null,3,50,-0.5,-0.044,8.5,2.4,1.8,0.6,null,null,null,null,null
+20,2020,Los Angeles Sparks,Beatrice Mompremier,Miami (FL),null,null,3,74,1.2,0.074,8.6,2,2.8,0.2,null,null,null,null,null
+21,2020,Dallas Wings,Luisa Geiselsoder,Germany,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2020,Los Angeles Sparks,Leonie Fiebich,Germany,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2020,Connecticut Sun,Kaila Charles,Maryland,null,null,3,52,2.1,0.097,16.7,4.7,2.7,1,null,null,null,null,null
+24,2020,Washington Mystics,Jaylyn Agnew,Creighton,null,null,1,12,-0.2,-0.093,5.9,1.3,0.4,0.3,null,null,null,null,null
+25,2020,Atlanta Dream,Mikayla Pivec,Oregon State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2020,New York Liberty,Erica Ogwumike,Rice University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2020,Atlanta Dream,Kobi Thornton,Clemson,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2020,Indiana Fever,Kamiah Smalls,James Madison University,null,null,2,10,0.2,0.059,13.4,3.1,1.3,2,null,null,null,null,null
+29,2020,Phoenix Mercury,Stella Johnson,Rider University,null,null,2,15,0.5,0.154,8.7,3.9,1,0.9,null,null,null,null,null
+30,2020,Chicago Sky,Japreece Dean,UCLA,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2020,Seattle Storm,Haley Gorecki,Duke,null,null,1,3,-0.1,-0.375,2,0,0.7,0,null,null,null,null,null
+32,2020,Chicago Sky,Kiah Gillespie,Florida State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2020,Las Vegas Aces,Lauren Manis,Holy Cross,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2020,Los Angeles Sparks,Tynice Martin,West Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2020,Connecticut Sun,Juicy Landrum,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2020,Washington Mystics,Sug Sutton,Texas,null,null,1,12,0,-0.012,9.4,2.8,0.7,1,null,null,null,null,null
+1,2019,Las Vegas Aces,Jackie Young,Notre Dame,Guard,6'0 ,4,122,12.4,0.142,28.5,11.5,4,3.7,1,0.3,45.6%,37.2%,84.1%
+2,2019,New York Liberty,AD Durr,Louisville,Guard,5'10,2,43,0.9,0.043,19.7,8.1,1.4,1.4,0.4,0.2,42.8%,39.2%,79.5%
+3,2019,Indiana Fever,Teaira McCowan,Mississippi State,Center,6'8,4,121,10.9,0.163,22.2,10.8,8.3,0.7,0.5,1.1,54%,0%,66.9%
+4,2019,Chicago Sky,Katie Lou Samuelson,UConn,Forward,6'3,4,101,2.8,0.053,20.8,6.5,2.6,1.4,0.7,0.3,43.1%,36.4%,79.6%
+5,2019,Dallas Wings,Arike Ogunbowale,Notre Dame,Guard,5'8,4,117,10.4,0.111,32.1,19.8,2.9,3.4,1.3,0.1,38.9%,35.6%,83.2%
+6,2019,Minnesota Lynx,Napheesa Collier,UConn,Forward,6'1,4,89,12.7,0.17,33.4,14.6,7,2.9,1.6,1.1,45.3%,32.7%,81.2%
+7,2019,Los Angeles Sparks,Kalani Brown,Baylor,Center,6'7,3,39,1.2,0.109,11.4,4.5,2.8,0.4,0.2,0.6,46.8%,0%,70.6%
+8,2019,Phoenix Mercury,Alanna Smith,Stanford,Forward,6'4,4,64,0,0.001,10.4,3,2.4,0.7,0.5,0.5,35%,25%,64%
+9,2019,Connecticut Sun,Kristine Anigwe,California,Forward-Center,6'4,4,64,0.7,0.044,10.1,3,2.5,0.3,0.4,0.3,45%,0%,59.5%
+10,2019,Washington Mystics,Kiara Leslie,NC State,Guard,6'0,2,28,0.1,0.007,17.9,4.6,2.8,0.8,0.5,0.3,34.8%,35.2%,90.5%
+11,2019,Atlanta Dream,Brianna Turner,Notre Dame,Forward,6'3,4,118,9.7,0.12,27.4,5.7,7.3,1.6,0.9,1.2,63.9%,0%,63.9%
+12,2019,Seattle Storm,Ezi Magbegor,Melbourne Boomers (Australia),Forward,6'4,3,85,6.9,0.177,18.4,7.8,4.2,0.9,0.7,1.1,53.2%,31%,75.5%
+13,2019,Phoenix Mercury,Sophie Cunningham,Missouri,null,null,4,111,4.6,0.086,19.2,6.5,2.3,1.1,null,null,null,null,null
+14,2019,New York Liberty,Han Xu,Xinjiang Magic Deer (China),null,null,2,50,2,0.116,13.6,6.5,2.6,0.6,null,null,null,null,null
+15,2019,Chicago Sky,Chloe Jackson,Baylor,null,null,1,8,-0.2,-0.245,4,0.6,0.8,0.5,null,null,null,null,null
+16,2019,Minnesota Lynx,Jessica Shepard,Notre Dame,null,null,3,64,3.2,0.1,20.1,5.7,5.8,2.6,null,null,null,null,null
+17,2019,Dallas Wings,Megan Gustafson,Iowa,null,null,4,79,1.5,0.084,9,3.2,2.3,0.3,null,null,null,null,null
+18,2019,Minnesota Lynx,Natisha Hiedeman,Marquette,null,null,4,110,7.6,0.141,19.6,7.1,1.8,2.3,null,null,null,null,null
+19,2019,Los Angeles Sparks,Marina Mabrey,Notre Dame,null,null,4,116,4,0.064,21.4,10.4,3,2.5,null,null,null,null,null
+20,2019,Minnesota Lynx,Cierra Dillard,Buffalo,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2019,Connecticut Sun,Bridget Carleton,Iowa State,null,null,4,98,3.7,0.08,18.7,4.7,2.4,1.4,null,null,null,null,null
+22,2019,Dallas Wings,Kennedy Burke,UCLA,null,null,4,92,1.7,0.057,13.3,4.9,1.5,0.7,null,null,null,null,null
+23,2019,Atlanta Dream,Maite Cazorla,Oregon,null,null,1,31,-0.2,-0.014,15.4,3,0.7,1.6,null,null,null,null,null
+24,2019,Seattle Storm,Anriel Howard,Mississippi State,null,null,1,3,0,-0.028,6.7,1.7,1,0,null,null,null,null,null
+25,2019,Indiana Fever,Paris Kea,UNC,null,null,2,22,-0.3,-0.047,10.2,4.8,1.2,1,null,null,null,null,null
+26,2019,New York Liberty,Megan Huff,Utah,null,null,1,7,-0.1,-0.323,2.3,0,0.6,0.1,null,null,null,null,null
+27,2019,Chicago Sky,Maria Conde,WisÅ‚a Can-Pack KrakÃ³w (Poland),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2019,Indiana Fever,Caliya Robinson,Georgia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2019,Dallas Wings,Morgan Bertsch,UC-Davis,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2019,Minnesota Lynx,Kenisha Bell,Minnesota,null,null,1,3,0,-0.162,3.7,0,0.3,0.3,null,null,null,null,null
+31,2019,Los Angeles Sparks,Ãngela Salvadores,Ensino (Spain),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2019,Phoenix Mercury,Arica Carter,Louisville,null,null,1,6,-0.1,-0.229,4,0.3,0,0.2,null,null,null,null,null
+33,2019,Connecticut Sun,Regan Magarity,Virginia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2019,Washington Mystics,Sam Fuehring,Louisville,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2019,Atlanta Dream,Li Yueru,Guangdong Vermilion Birds (China),null,null,1,16,0,0.008,5.1,1.8,1.5,0.1,null,null,null,null,null
+36,2019,Seattle Storm,Macy Miller,South Dakota State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2018,Las Vegas Aces,A'ja Wilson,South Carolina,Center,6'4,5,149,23.8,0.209,30.5,19.1,8.4,2.3,1,1.5,47.2%,37.7%,80.8%
+2,2018,Indiana Fever,Kelsey Mitchell,Ohio State,Guard,5'8,5,153,5.4,0.048,29.1,15.9,2,3,0.7,0.1,41%,37.2%,84.6%
+3,2018,Chicago Sky,Diamond DeShields,Tennessee,Guard,6'1,5,143,4.5,0.047,26.8,13.2,4.2,2.2,1,0.3,39.8%,28.3%,80.2%
+4,2018,Chicago Sky,Gabby Williams,UConn,Forward,5'11,4,125,4.3,0.062,22.2,7,3.9,2.2,1.3,0.3,42.9%,24.9%,73.3%
+5,2018,Seattle Storm,Jordin Canada,UCLA,Guard,5'6,5,144,4.9,0.059,22.9,7.7,2.1,4.4,1.3,0.1,38%,16.2%,78.5%
+6,2018,Dallas Wings,Azura Stevens,UConn,Forward,6'6,5,121,7.5,0.117,21.1,9,4.4,1,0.7,0.9,45.2%,33%,79.5%
+7,2018,Washington Mystics,Ariel Atkins,Texas,Guard,5'10,5,150,13.4,0.129,27.6,13.4,2.8,2.3,1.5,0.4,42.4%,36%,84.1%
+8,2018,Indiana Fever,Victoria Vivians,Mississippi State,Guard,6'1,4,106,-1,-0.015,24.6,8.3,3.2,1.6,0.9,0.1,35.7%,30.7%,84.5%
+9,2018,Connecticut Sun,Lexie Brown,Duke,Guard,5'9,5,123,2.9,0.056,17.2,5.4,1.5,1.5,0.9,0,36.5%,33.5%,70%
+10,2018,New York Liberty,Kia Nurse,UConn,Guard,5'10,4,121,3.4,0.043,26.3,11,2.8,2,0.6,0.1,34.8%,30.9%,84.9%
+11,2018,Los Angeles Sparks,Maria Vadeeva,Dynamo Kursk (Russia),Forward,6'4,2,40,1.6,0.167,9.6,5.2,2.8,0.5,0.6,0.3,51%,32.5%,75.9%
+12,2018,Phoenix Mercury,Marie Gulich,Oregon State,Center,6'5,3,66,0,0.002,8.8,2.5,1.9,0.4,0.2,0.5,40.5%,28.6%,75.8%
+13,2018,Las Vegas Aces,Jaime Nared,Tennessee,null,null,2,32,-0.1,-0.014,8.9,2.5,1.4,0.4,null,null,null,null,null
+14,2018,Indiana Fever,Stephanie Mavunga,Ohio State,null,null,3,59,1,0.078,8.4,2.5,2.5,0.2,null,null,null,null,null
+15,2018,Atlanta Dream,Monique Billings,UCLA,null,null,5,137,5.6,0.085,19.3,6.2,6,0.8,null,null,null,null,null
+16,2018,Atlanta Dream,Kristy Wallace,Baylor,null,null,1,29,0.8,0.056,20.8,6.6,2.3,2.2,null,null,null,null,null
+17,2018,Minnesota Lynx,JiSu Park,Cheongju KB Stars (South Korea),null,null,3,82,0.1,0.003,9.8,1.9,2.2,0.7,null,null,null,null,null
+18,2018,Dallas Wings,Loryn Goodwin,Oklahoma State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+19,2018,Washington Mystics,Myisha Hines-Allen,Louisville,null,null,5,125,6.2,0.11,17.9,8.5,5,1.6,null,null,null,null,null
+20,2018,Phoenix Mercury,Tyler Scaife,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2018,Phoenix Mercury,Raisa Musina,UMMC Ekaterinburg (Russia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2018,New York Liberty,Mercedes Russell,Tennessee,null,null,5,115,6.6,0.126,18.3,5.2,4.4,0.9,null,null,null,null,null
+23,2018,Los Angeles Sparks,Shakayla Thomas,Florida State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2018,Minnesota Lynx,Kahlia Lawrence,Mercer University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2018,Las Vegas Aces,Raigyne Louis,LSU,null,null,1,2,-0.1,-0.165,10.5,3,2,0.5,null,null,null,null,null
+26,2018,Phoenix Mercury,Imani Wright,Florida State,null,null,1,1,0,-1.127,1,0,0,0,null,null,null,null,null
+27,2018,Atlanta Dream,Mackenzie Engram,Georgia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2018,Chicago Sky,Amarah Coleman,DePaul,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2018,Seattle Storm,Teana Muldrow,West Virginia,null,null,1,4,0,-0.095,2.3,0,0.3,0,null,null,null,null,null
+30,2018,Dallas Wings,Natalie Butler,George Mason,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2018,Washington Mystics,Rebecca Greenwell,Duke,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2018,Las Vegas Aces,Jill Barta,Gonzaga,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2018,Connecticut Sun,Mikayla Cowling,California,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2018,New York Liberty,Leslie Robinson,Princeton,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2018,Los Angeles Sparks,Julia ReisingerovÃ¡,Femeni Sant AdriÃ  (Spain),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2018,Minnesota Lynx,Carlie Wagner,Minnesota,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2017,San Antonio Stars,Kelsey Plum,Washington,Guard,5'8,5,158,11.1,0.106,26.7,12.4,2.5,3.9,0.8,0.1,41.4%,39.5%,87.1%
+2,2017,Chicago Sky,Alaina Coates,South Carolina,Center,6'4,4,83,2.3,0.114,9.7,3,2.8,0.3,0.2,0.3,56.5%,0%,62.3%
+3,2017,Dallas Wings,Evelyn Akhator,Kentucky,Forward,6'3,1,15,-0.2,-0.107,4.1,0.9,0.6,0,0.1,0.2,25%,0%,83.3%
+4,2017,Dallas Wings,Allisha Gray,South Carolina,Guard,6'0,6,180,15.6,0.121,28.7,11.7,4.2,2,1.2,0.5,42.4%,35.5%,83.8%
+5,2017,San Antonio Stars,Nia Coffey,Northwestern,Forward,6'1,6,146,0.5,0.008,16.1,5.1,3,0.6,0.4,0.4,37.6%,33.5%,61%
+6,2017,Washington Mystics,Shatori Walker-Kimbrough,Maryland,Guard,5'9,6,153,6,0.094,16.6,6,1.4,1.1,0.8,0.3,42%,34.6%,91.2%
+7,2017,Atlanta Dream,Brittney Sykes,Syracuse,Guard,5'9,6,182,7.8,0.066,25.9,11.1,3.9,2.5,1.2,0.5,41.3%,28.8%,74.9%
+8,2017,Connecticut Sun,Brionna Jones,Maryland,Forward,6'3,6,166,16.9,0.221,18.4,8.7,4.1,0.8,1,0.4,53%,12.6%,77.2%
+9,2017,Chicago Sky,Tori Jankoska,Michigan State,Guard,5'8,0,null,null,null,null,null,null,null,null,null,null,null,null
+10,2017,Dallas Wings,Kaela Davis,South Carolina,Forward,6'2,5,102,-2.7,-0.065,16.2,5.5,1.8,1.4,0.4,0.1,42%,34.5%,76.1%
+11,2017,Los Angeles Sparks,Sydney Wiese,Oregon State,Guard,6'0,5,117,1.7,0.036,15.9,4,1.2,1.1,0.4,0.1,38.9%,36.4%,80.9%
+12,2017,Minnesota Lynx,Alexis Jones,Baylor,Guard,5'9,4,81,0.2,0.01,9.1,3.3,0.8,1,0.2,0.1,36.4%,34.4%,79.5%
+13,2017,Connecticut Sun,Shayla Cooper,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+14,2017,New York Liberty,Lindsay Allen,Notre Dame,null,null,5,114,2.9,0.068,15.1,3.8,1.4,2.7,null,null,null,null,null
+15,2017,Seattle Storm,Alexis Peterson,Syracuse,null,null,1,17,-0.3,-0.112,7.1,2.1,1.2,0.8,null,null,null,null,null
+16,2017,Connecticut Sun,Leticia Romero,Florida State,null,null,1,21,0,-0.007,7,1.1,0.8,1.1,null,null,null,null,null
+17,2017,Indiana Fever,Erica McCall,Stanford,null,null,5,122,0.9,0.026,11.3,2.9,2.8,0.3,null,null,null,null,null
+18,2017,Washington Mystics,Jennie Simms,Old Dominion,null,null,2,37,0.1,0.008,11,2.8,1.8,0.8,null,null,null,null,null
+19,2017,Atlanta Dream,Jordan Reynolds,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2017,Indiana Fever,Feyonda Fitzgerald,Temple,null,null,1,2,0,-0.191,4,0,2,0.5,null,null,null,null,null
+21,2017,Chicago Sky,Chantel Osahor,Washington,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2017,Indiana Fever,Ronni Williams,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2017,Dallas Wings,Breanna Lewis,Kansas State,null,null,2,19,-0.4,-0.229,4.1,0.7,0.8,0.1,null,null,null,null,null
+24,2017,Minnesota Lynx,Lisa Berkani,USO Mondeville (France),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2017,San Antonio Stars,Schaquilla Nunn,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2017,Dallas Wings,Saniya Chong,UConn,null,null,2,38,0.2,0.017,10.7,2.5,0.9,1,null,null,null,null,null
+27,2017,Washington Mystics,Mehryn Kraker,Green Bay,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2017,Connecticut Sun,Jessica January,DePaul,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2017,Phoenix Mercury,Alexis Prince,Baylor,null,null,3,22,0.2,0.063,6.9,2.3,1,0.3,null,null,null,null,null
+30,2017,Seattle Storm,Lanay Montgomery,West Virginia,null,null,1,7,0,-0.045,4,0.9,0.7,0,null,null,null,null,null
+31,2017,Atlanta Dream,Oderah Chidom,Duke,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2017,Indiana Fever,Adrienne Motley,Miami (FL),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2017,Chicago Sky,Makayla Epps,Kentucky,null,null,1,17,-0.3,-0.207,3.8,0.6,0.2,0.4,null,null,null,null,null
+34,2017,New York Liberty,Kai James,Florida State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2017,Los Angeles Sparks,Saicha Grant-Allen,Dayton,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2017,Minnesota Lynx,Tahlia Tupaea,Sydney Uni Flames (Australia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2016,Seattle Storm,Breanna Stewart,UConn,Forward,6'4,6,183,35.2,0.237,32.4,20.3,8.6,2.9,1.4,1.3,46.5%,36.9%,84.1%
+2,2016,San Antonio Stars,Moriah Jefferson,UConn,Guard,5'6,6,140,5.7,0.07,23.3,9.1,2.1,3.6,1,0.1,44.6%,38.5%,73.4%
+3,2016,Connecticut Sun,Morgan Tuck,UConn,Forward,6'2,5,125,2.5,0.059,13.6,5.1,2.2,0.8,0.4,0.1,41%,32.2%,71.7%
+4,2016,Connecticut Sun,Rachel Banham,Minnesota,Guard,5'10,7,190,4.7,0.074,13.3,5.2,1.1,1.5,0.3,0.1,39%,36.3%,77.7%
+5,2016,Dallas Wings,Aerial Powers,Michigan State,Guard,6'0,7,153,7.7,0.096,21.1,11.4,3.5,1.7,0.7,0.2,44.5%,35.3%,86.4%
+6,2016,Los Angeles Sparks,Jonquel Jones,George Washington,Center,6'6,6,196,31.3,0.258,24.8,13.6,8.3,1.6,0.9,1.4,50.5%,39.2%,79.1%
+7,2016,Washington Mystics,Kahleah Copper,Rutgers University,Guard,6'1,7,216,7.4,0.065,21.1,10,3.4,1.2,0.5,0.1,44.4%,35.2%,78.1%
+8,2016,Phoenix Mercury,Courtney Williams,South Florida,Guard,5'8,7,209,11.5,0.081,27.3,12.5,5.3,3,0.8,0.2,44.6%,36.8%,70.7%
+9,2016,Indiana Fever,Tiffany Mitchell,South Carolina,Guard,5'9,7,209,3.5,0.029,23.3,9.6,2.5,1.8,0.7,0.1,38.8%,27.9%,87.3%
+10,2016,Chicago Sky,Imani McGee-Stafford,Texas,Center,6'7,4,121,3.7,0.089,13.8,4.4,4.2,0.6,0.5,0.8,49.3%,28.6%,62.7%
+11,2016,Atlanta Dream,Bria Holmes,West Virginia,Guard,6'3,5,136,2.5,0.039,18.8,6.5,2.3,1.2,0.7,0.2,38.8%,27%,67.6%
+12,2016,New York Liberty,Adut Bulgak,Florida State,Center,6'4,2,12,0.2,0.092,7,3,2.4,0,0.4,0.2,42.4%,40%,66.7%
+13,2016,Atlanta Dream,Rachel Hollivay,Rutgers University,null,null,2,39,0.2,0.022,8.2,1.2,1.9,0.1,null,null,null,null,null
+14,2016,Minnesota Lynx,Jazmon Gwathmey,James Madison University,null,null,3,60,-1.2,-0.052,15.8,4.5,1.8,0.8,null,null,null,null,null
+15,2016,Los Angeles Sparks,Whitney Knight,Florida Gulf Coast,null,null,1,10,-0.2,-0.198,3.8,0.6,0.5,0.2,null,null,null,null,null
+16,2016,Atlanta Dream,Courtney Walker,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+17,2016,Connecticut Sun,Jamie Weisner,Oregon State,null,null,1,7,0,0.029,3.6,1.7,0.4,0.3,null,null,null,null,null
+18,2016,Dallas Wings,Ruth Hamblin,Oregon State,null,null,1,20,-0.2,-0.049,6.5,1.1,1.5,0.2,null,null,null,null,null
+19,2016,Washington Mystics,Lia Galdeira,Washington State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2016,Phoenix Mercury,Jillian Alleyne,Oregon,null,null,2,7,0,0.025,3.1,0.6,1.3,0.1,null,null,null,null,null
+21,2016,Indiana Fever,Brene Moseley,Maryland,null,null,1,8,-0.6,-0.323,9.6,1.9,0.4,1.1,null,null,null,null,null
+22,2016,Minnesota Lynx,Bashaara Graves,Tennessee,null,null,2,22,0,0.003,6,1.4,1.2,0.3,null,null,null,null,null
+23,2016,Los Angeles Sparks,Brianna Butler,Syracuse,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2016,New York Liberty,Ameryst Alston,Ohio State,null,null,2,3,0,0.035,1,0.7,0.7,0.3,null,null,null,null,null
+25,2016,San Antonio Stars,Brittney Martin,Oklahoma State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2016,Seattle Storm,Lexi Eaton Rydalch,BYU,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2016,Connecticut Sun,Aliyyah Handford,St. John's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2016,Atlanta Dream,Niya Johnson,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2016,Los Angeles Sparks,Talia Walton,Washington,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2016,Dallas Wings,Shakena Richardson,Seton Hall,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2016,Washington Mystics,Danaejah Grant,St. John's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2016,Phoenix Mercury,Nirra Fields,UCLA,null,null,1,4,-0.2,-0.466,4.3,0.8,0,0,null,null,null,null,null
+33,2016,Indiana Fever,Julie Allemand,Castors Braine (Belgium),null,null,2,47,1.8,0.064,23.8,5.6,3,4.5,null,null,null,null,null
+34,2016,Chicago Sky,Jordan Jones,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2016,Minnesota Lynx,Temi Fagbenle,USC,null,null,3,69,1.1,0.067,9.3,3.1,1.9,0.5,null,null,null,null,null
+36,2016,New York Liberty,Shacobia Barbee,Georgia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2015,Seattle Storm,Jewell Loyd,Notre Dame,Guard,5'10,8,252,21.3,0.116,29.3,15.3,3.4,3.1,1.2,0.2,42.2%,34.4%,88%
+2,2015,Tulsa Shock,Amanda Zahui B.,Minnesota,Center,6'5,7,197,4.1,0.053,15.7,6.2,4,0.7,0.7,0.9,45.2%,31.9%,73.3%
+3,2015,Seattle Storm,Kaleena Mosqueda-Lewis,UConn,Forward,5'11,6,157,0.4,0.008,12.5,5.1,1.1,0.6,0.2,0.1,39.4%,33.7%,87.2%
+4,2015,Connecticut Sun,Elizabeth Williams,Duke,Center-Forward,6'3,8,238,18.4,0.12,25.8,8.4,5.8,1.1,0.8,1.6,48.3%,0%,64.9%
+5,2015,Chicago Sky,Cheyenne Parker,Middle Tennessee,Forward,6'4,8,215,11.5,0.117,18.3,8,4.8,0.9,0.8,0.9,50.2%,31.3%,77.2%
+6,2015,San Antonio Stars,Dearica Hamby,Wake Forest,Forward,6'3,8,242,14.6,0.108,22.3,9.2,5.6,1.4,0.9,0.3,49.7%,27.8%,69.6%
+7,2015,Los Angeles Sparks,Crystal Bradford,Central Michigan University,Forward,6'0,2,39,0.9,0.06,14.9,6.5,2.8,1.1,0.9,0.3,41.4%,33.3%,50%
+8,2015,Washington Mystics,Ally Malott,Dayton,Forward,6'4,2,47,0.2,0.024,8.4,2.7,1,0.4,0.2,0.1,38.3%,37.1%,81%
+9,2015,New York Liberty,Brittany Boyd,California,Guard,5'9,6,130,3.3,0.056,18.4,6.2,3.2,3.9,1.4,0.1,39.2%,26.9%,73.4%
+10,2015,Atlanta Dream,Samantha Logic,Iowa,Guard,5'9,1,27,-0.9,-0.106,12.7,1.8,1.4,1.1,0.3,0.3,24%,19.4%,85.7%
+11,2015,New York Liberty,Kiah Stokes,UConn,Center,6'3,7,202,12.7,0.123,20.4,4.3,5.8,0.8,0.3,0.3,24%,19.4%,85.7%
+12,2015,Phoenix Mercury,Isabelle Harrison,Tennessee,Forward,6'3,6,167,8,0.092,20.7,8.6,4.9,1.1,0.8,0.4,52.9%,25%,84.2%
+13,2015,Tulsa Shock,Brianna Kiesel,Pitt,null,null,3,57,-0.4,-0.019,13.9,3.5,0.7,1.6,null,null,null,null,null
+14,2015,Los Angeles Sparks,Cierra Burdick,Tennessee,null,null,5,56,0.8,0.073,7.4,1.8,1.4,0.5,null,null,null,null,null
+15,2015,Washington Mystics,Natasha Cloud,Saint Joseph's,null,null,7,211,10.9,0.078,26.5,7.3,3,4.9,null,null,null,null,null
+16,2015,Minnesota Lynx,Reshanda Gray,California,null,null,6,141,1.5,0.038,11.2,3.8,3.1,0.3,null,null,null,null,null
+17,2015,Chicago Sky,Betnijah Laney,Rutgers University,null,null,7,166,3.6,0.039,22.1,8.3,3.2,2.3,null,null,null,null,null
+18,2015,Phoenix Mercury,Alex Harden,Wichita State,null,null,2,60,-0.1,-0.005,10,1.8,1.1,0.7,null,null,null,null,null
+19,2015,Connecticut Sun,Brittany Hrynko,DePaul,null,null,1,7,-0.2,-0.365,2.6,0.3,0,0.1,null,null,null,null,null
+20,2015,Seattle Storm,Vicky McIntyre,Oral Roberts,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2015,Indiana Fever,Chelsea Gardner,Kansas,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2015,Chicago Sky,Aleighsa Welch,South Carolina,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2015,New York Liberty,Amber Orrange,Stanford,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2015,Phoenix Mercury,Zofia Hruscakova,Good Angels KoÅ¡ice (Slovakia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2015,Tulsa Shock,Mimi Mungedi,Nevada,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2015,Seattle Storm,Nneka Enemkpali,Texas,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2015,New York Liberty,Laurin Mincy,Maryland,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2015,New York Liberty,Michala Johnson,Wisconsin,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2015,Atlanta Dream,Ariel Massengale,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2015,San Antonio Stars,Dragana Stankovic,UNIQA Euroleasing Sopron (Hungary),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2015,Los Angeles Sparks,Andrea Hoover,Dayton,null,null,1,12,-0.1,-0.033,14.3,3.8,1.3,0.3,null,null,null,null,null
+32,2015,Washington Mystics,Marica Gajic,Å½KK Celje (Slovenia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2015,San Antonio Stars,Nikki Moody,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2015,Atlanta Dream,Lauren Okafor,James Madison University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2015,Minnesota Lynx,Shae Kelley,Minnesota,null,null,1,8,-0.1,-0.127,2.4,0.1,0.4,0.1,null,null,null,null,null
+36,2015,Phoenix Mercury,Promise Amukamara,Arizona State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2014,Connecticut Sun,Chiney Ogwumike,Stanford,Forward-Center,6'3,6,160,18.4,0.192,23.9,11.8,6.7,0.9,1,0.6,55.7%,50%,74.1%
+2,2014,Tulsa Shock,Odyssey Sims,Baylor,Guard,5'8,9,240,11,0.065,28.4,12.1,2.6,3.8,1.1,0.1,46.7%,27.3%,82.8%
+3,2014,San Antonio Stars,Kayla McBride,Notre Dame,Guard,5'11,9,258,20.6,0.108,29.7,14.4,3.4,2.3,1.1,0.1,43.4%,37.8%,90%
+4,2014,New York Liberty,Alyssa Thomas,Maryland,Forward,6'2,9,240,23.9,0.136,29.2,11.9,6.9,3.5,1.4,0.3,50%,0%,65.9%
+5,2014,Indiana Fever,Natasha Howard,Florida State,Forward,6'3,9,270,18.6,0.132,20.8,10.2,5.1,1.2,1.2,0.7,50.5%,29%,73.7%
+6,2014,Washington Mystics,Stefanie Dolson,UConn,Center,6'5,9,271,17,0.107,23.5,9.2,4.8,1.8,0.4,0.8,49.5%,40.2%,85%
+7,2014,Seattle Storm,Bria Hartley,UConn,Guard,5'9,9,207,4.4,0.042,20.3,7.9,2.2,2.6,0.6,0.1,44.4%,36.1%,76.8%
+8,2014,Atlanta Dream,Shoni Schimmel,Louisville,Guard,5'9,4,85,1.6,0.045,17,6.6,1.9,2.8,0.6,0.1,37.9%,36.6%,84.5%
+9,2014,Indiana Fever,Natalie Achonwa,Notre Dame,Forward,6'3,8,211,12.3,0.131,17.9,7.1,4.2,1.1,0.5,0.5,51.9%,12%,80.8%
+10,2014,Chicago Sky,Markeisha Gatling,NC State,Center,6'5,3,81,2.1,0.096,11,3.8,2.6,0.2,0.2,0.4,53.7%,0%,84.2%
+11,2014,Connecticut Sun,Chelsea Gray,Duke,Guard,5'11,8,258,22.6,0.128,27.4,11.9,3,4.7,1.2,0.3,45.9%,38%,86.7%
+12,2014,Minnesota Lynx,Tricia Liston,Duke,Forward,6'0,2,null,null,null,null,null,null,null,0.2,0.1,41.3%,44.1%,87.5%
+13,2014,Tulsa Shock,Jordan Hooper,Nebraska,null,null,4,128,1.5,0.034,14.2,4.5,1.8,0.3,null,null,null,null,null
+14,2014,New York Liberty,Tyaunna Marshall,Georgia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+15,2014,Minnesota Lynx,Asya Bussie,West Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+16,2014,San Antonio Stars,Astou Ndour,Gran Canarias (Spain),null,null,6,114,3.7,0.092,14,5.4,3.3,0.4,null,null,null,null,null
+17,2014,Phoenix Mercury,Tiffany Bias,Oklahoma State,null,null,4,54,-0.7,-0.087,6.1,1.8,0.3,0.6,null,null,null,null,null
+18,2014,Atlanta Dream,Inga Orekhova,South Florida,null,null,2,6,-0.2,-0.395,4,0,0.3,0,null,null,null,null,null
+19,2014,Seattle Storm,Michelle Plouffe,Utah,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2014,Atlanta Dream,Cassie Harberts,USC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2014,Phoenix Mercury,Maggie Lucas,Penn State,null,null,4,72,1.6,0.073,12.1,4.4,0.9,0.7,null,null,null,null,null
+22,2014,Chicago Sky,Gennifer Brandon,California,null,null,1,16,-0.1,-0.038,7.6,1.8,2.6,0.2,null,null,null,null,null
+23,2014,Los Angeles Sparks,Jennifer Hamson,BYU,null,null,2,37,0.7,0.109,6.7,1.8,1.7,0.2,null,null,null,null,null
+24,2014,Minnesota Lynx,Christina Foggie,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2014,Connecticut Sun,DeNesha Stallworth,Kentucky,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2014,New York Liberty,Meighan Simmons,Tennessee,null,null,2,36,-0.4,-0.084,5.3,2.7,0.4,0.3,null,null,null,null,null
+27,2014,Tulsa Shock,Theresa Plaisance,LSU,null,null,9,218,3.4,0.047,13.2,4.5,3,0.7,null,null,null,null,null
+28,2014,San Antonio Stars,Bri Kulas,Missouri,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2014,Indiana Fever,Haiden Palmer,Gonzaga,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2014,Washington Mystics,Carley Mijovic,Canberra Capitals (Australia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2014,Seattle Storm,Mikaela Ruef,Stanford,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2014,Washington Mystics,Kody Burke,NC State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2014,Phoenix Mercury,Stephanie Talbot,Adelaide Lightning (Australia),null,null,5,162,5.4,0.08,16.7,4.8,2.6,1.4,null,null,null,null,null
+34,2014,Chicago Sky,Jamierra Faulkner,Southern Miss,null,null,5,131,0.1,0.003,16,6.2,1.4,3.1,null,null,null,null,null
+35,2014,Los Angeles Sparks,Antonita Slaughter,Louisville,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2014,Minnesota Lynx,Asia Taylor,Louisville,null,null,5,76,0.5,0.036,7.4,2.2,1.6,0.5,null,null,null,null,null
+1,2013,Phoenix Mercury,Brittney Griner,Baylor,Center,6'9,9,254,41.9,0.213,30.9,17.7,7.6,1.8,0.5,2.8,55.9%,33.3%,80.1%
+2,2013,Chicago Sky,Elena Delle Donne,University of Delaware,Forward-Guard,6'5,9,218,47.4,0.285,30.5,19.8,6.8,1.8,0.7,1.4,50.8%,39.1%,93.5%
+3,2013,Tulsa Shock,Skylar Diggins-Smith,Notre Dame,Guard,5'9,9,252,24.8,0.123,32.1,16.7,2.9,5,1.2,0.7,46.6%,34.6%,85.5%
+4,2013,Washington Mystics,Tayler Hill,Ohio State,Guard,5'9,7,145,6,0.084,19.7,8.9,1.7,1.7,0.8,0.1,33.9%,32.3%,84%
+5,2013,New York Liberty,Kelsey Bone,Texas A&M,Center,6'4,5,168,4.4,0.053,19.6,8.1,4.6,1.2,0.5,0.3,47%,16.7%,63.4%
+6,2013,Seattle Storm,Tianna Hawkins,Maryland,Forward,6'3,9,257,8.5,0.095,13.9,5.8,3.1,0.6,0.5,0.3,47.7%,32.8%,84.6%
+7,2013,New York Liberty,Toni Young,Oklahoma State,Forward,6'0,2,39,0.4,0.04,9.8,3.5,1.6,0.4,0.3,0.3,46.2%,0%,65.2%
+8,2013,San Antonio Silver Stars,Kayla Alexander,Syracuse,Center,6'4,8,203,4,0.066,11.8,4,2.8,0.3,0.2,0.4,50.8%,0%,76.3%
+9,2013,Indiana Fever,Layshia Clarendon,California,Guard,5'9,9,239,6.6,0.05,22.1,7.6,2.7,3.2,0.7,0,43.2%,31.8%,81%
+10,2013,Los Angeles Sparks,A'dia Mathies,Kentucky,Guard,5'9 ,1,30,0.1,0.018,9.2,2.3,0.7,0.8,0.3,0.1,35.3%,25%,64%
+11,2013,Connecticut Sun,Kelly Faris,UConn,Guard,5'11,4,112,1,0.031,11.7,2.1,1.6,0.7,0.4,0.1,36.1%,28.1%,82%
+12,2013,Minnesota Lynx,Lindsey Moore,Nebraska,Guard,5'8,2,35,0,-0.009,6.6,1,0.6,1.1,0.2,0,23.9%,28.6%,70%
+13,2013,Atlanta Dream,Alex Bentley,Penn State,null,null,7,222,8.5,0.062,24.6,10.6,1.7,2.9,null,null,null,null,null
+14,2013,Minnesota Lynx,Sugar Rodgers,Georgetown,null,null,8,247,9.7,0.086,18.2,7,2.5,1.6,null,null,null,null,null
+15,2013,New York Liberty,Kamiko Williams,Tennessee,null,null,1,34,-0.4,-0.032,13.3,2.6,2.1,0.9,null,null,null,null,null
+16,2013,San Antonio Silver Stars,Davellyn Whyte,Arizona,null,null,2,31,-0.3,-0.027,14.3,4.2,1.8,1.7,null,null,null,null,null
+17,2013,Washington Mystics,Nadirah McKenith,St. John's,null,null,2,38,0.6,0.081,8.1,2.5,1.1,0.9,null,null,null,null,null
+18,2013,Seattle Storm,Chelsea Poppens,Iowa State,null,null,1,8,0,0.026,7.9,1.1,2.1,0.1,null,null,null,null,null
+19,2013,Washington Mystics,Emma Meesseman,Villeneuve-d'Ascq (France),null,null,8,238,29.2,0.188,26.1,11.5,5.3,2.6,null,null,null,null,null
+20,2013,San Antonio Silver Stars,Diandra Tchatchouang,Perpignan (France),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2013,Indiana Fever,Jasmine Hassell,Georgia,null,null,2,24,-0.2,-0.052,7.6,1.7,0.8,0.4,null,null,null,null,null
+22,2013,Los Angeles Sparks,Brittany Chambers,Kansas State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2013,Connecticut Sun,Anna Prins,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2013,Minnesota Lynx,Chucky Jeffery,Colorado,null,null,2,17,0.1,0.049,4.6,1,0.9,0.2,null,null,null,null,null
+25,2013,New York Liberty,Shenneika Smith,St. John's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2013,Phoenix Mercury,Nikki Greene,Penn State,null,null,2,23,0,-0.012,6,0.8,1.5,0.1,null,null,null,null,null
+27,2013,New York Liberty,Olcay Cakir,FenerbahÃ§e (Turkey),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2013,Chicago Sky,Brooklyn Pope,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2013,Tulsa Shock,Angel Goodrich,Kansas,null,null,3,82,0,0,14.9,2.9,1.3,2.2,null,null,null,null,null
+30,2013,Seattle Storm,Jasmine James,Georgia,null,null,1,16,-0.1,-0.03,11.9,3.1,1.4,1.8,null,null,null,null,null
+31,2013,Atlanta Dream,Anne Marie Armstrong,Georgia,null,null,1,9,0.1,0.128,2.8,0.7,0.4,0,null,null,null,null,null
+32,2013,San Antonio Silver Stars,Whitney Hand,Oklahoma,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2013,Indiana Fever,Jennifer George,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2013,Los Angeles Sparks,Alina Iagupova,Elizabeth-Basket Kivorograd (Ukraine),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2013,Connecticut Sun,Andrea Smith,South Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2013,Minnesota Lynx,Waltiea Rolle,UNC,null,null,1,6,0.3,0.176,11,2.7,3.2,0.3,null,null,null,null,null
+1,2012,Los Angeles Sparks,Nneka Ogwumike,Stanford,Forward,6'2,11,320,57.2,0.243,29.4,16.2,7.4,1.9,1.5,0.6,53.6%,36.3%,84.1%
+2,2012,Seattle Storm,Shekinna Stricklen,Tennessee,Forward,6'2,10,311,14.6,0.095,19.8,7.2,2.3,0.8,0.7,0.2,39.9%,36.4%,74.8%
+3,2012,Minnesota Lynx,Devereaux Peters,Notre Dame,Forward,6'2,6,160,7,0.111,15.7,4.3,3.6,1.1,0.5,0.8,47.4%,30.8%,73.8%
+4,2012,Tulsa Shock,Glory Johnson,Tennessee,Forward,6'3,8,222,15.8,0.105,27.2,11.4,7.4,1.3,1.3,0.5,44%,31.1%,72.8%
+5,2012,San Antonio Silver Stars,Shenise Johnson,Miami (FL),Guard,5'11,8,205,9.7,0.091,20.8,8.2,3.6,1.8,1.1,0.2,40.3%,34.8%,86.1%
+6,2012,Phoenix Mercury,Samantha Prahalis,Ohio State,Guard,5'7,3,41,-0.8,-0.031,24.8,8.4,2.5,3.5,1.2,0.1,35.2%,25.7%,87.1%
+7,2012,New York Liberty,Kelley Cain,Tennessee,Center,6'6,2,28,0,-0.004,6.5,1.2,1.5,0.1,0.1,0.3,35.3%,0%,66.7%
+8,2012,Washington Mystics,Natalie Novosel,Notre Dame,Guard,5'11,1,31,0.1,0.011,9.9,3.2,1.3,0.7,0.5,0.1,33.7%,22%,75.9%
+9,2012,Connecticut Sun,Astan Dabo,Mali,Guard,5'11,0,null,null,null,null,null,null,null,null,null,null,null,null
+10,2012,Washington Mystics,LaSondra Barrett,LSU,Forward,6'2,0,null,null,null,null,null,null,null,null,null,null,null,null
+11,2012,Indiana Fever,Sasha Goodlett,Georgia Tech,Center,6'5,4,101,1.4,0.055,10.2,2.7,1.9,0.2,0.2,0.4,43.7%,0%,74.3%
+12,2012,Minnesota Lynx,Damiris Dantas,Brazil,Center-Forward,6'4,8,202,10.9,0.102,21.2,7.7,4.3,1.6,0.5,0.3,43.5%,33.5%,79%
+13,2012,Los Angeles Sparks,Farhiya Abdi,Frisco SIKA (Czech Republic),null,null,3,52,-0.1,-0.01,9.6,2.9,1,0.4,null,null,null,null,null
+14,2012,Atlanta Dream,Tiffany Hayes,UConn,null,null,10,277,28.4,0.147,27.9,13.8,3.3,2.4,null,null,null,null,null
+15,2012,Los Angeles Sparks,Khadijah Rushdan,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+16,2012,Los Angeles Sparks,Tyra White,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+17,2012,Tulsa Shock,Riquna Williams,Miami (FL),null,null,10,253,17.3,0.127,21.6,10.5,2.2,1.5,null,null,null,null,null
+18,2012,Minnesota Lynx,Julie Wojta,Green Bay,null,null,2,4,0,0.006,7.3,1.5,2,0.3,null,null,null,null,null
+19,2012,Minnesota Lynx,Kayla Standish,Gonzaga,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2012,Minnesota Lynx,Nika Baric,Spartak Moscow (Russia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2012,Connecticut Sun,Chay Shegog,UNC,null,null,1,3,0,-0.025,3,1,0.7,0,null,null,null,null,null
+22,2012,Seattle Storm,Keisha Hampton,DePaul,null,null,2,46,0.9,0.108,7.2,3,0.5,0.3,null,null,null,null,null
+23,2012,Chicago Sky,Shey Peddy,Temple,null,null,4,98,5.3,0.113,19,6.1,2.5,2.4,null,null,null,null,null
+24,2012,Phoenix Mercury,C'eira Ricketts,Arkansas,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2012,Tulsa Shock,Vicki Baugh,Tennessee,null,null,3,78,2.3,0.096,12.1,4,3.5,0.4,null,null,null,null,null
+26,2012,Washington Mystics,Anjale Barrett,Maryland,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2012,Chicago Sky,Sydney Carter,Texas A&M,null,null,4,65,-1.4,-0.065,13.1,2.9,1,1.3,null,null,null,null,null
+28,2012,Los Angeles Sparks,April Sykes,Rutgers University,null,null,1,30,0.5,0.081,8.6,3.1,1.1,0.6,null,null,null,null,null
+29,2012,Tulsa Shock,Lynetta Kizer,Maryland,null,null,7,180,5,0.086,12.9,5.8,2.8,0.3,null,null,null,null,null
+30,2012,Phoenix Mercury,Christine Flores,Missouri,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2012,Minnesota Lynx,Jacki Gemelos,USC,null,null,2,35,-0.2,-0.028,8.8,1.9,0.8,0.6,null,null,null,null,null
+32,2012,Atlanta Dream,Isabelle Yacoubou,Valencia (Spain),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2012,Phoenix Mercury,Amanda Johnson,Oregon,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2012,Indiana Fever,Courtney Hurt,VCU,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2012,Washington Mystics,Briana Gilbreath-Butler,USC,null,null,4,54,0.6,0.024,20,4.2,2.9,1.1,null,null,null,null,null
+36,2012,New York Liberty,Katelan Redmon,Gonzaga,null,null,1,7,-0.1,-0.134,6,1,1.1,0.3,null,null,null,null,null
+1,2011,Minnesota Lynx,Maya Moore,UConn,Forward,6'0,8,271,53.5,0.253,31.2,18.4,5.9,3.3,1.7,0.6,45.3%,38.4%,86%
+2,2011,Tulsa Shock,Liz Cambage,Bulleen Boomers (Australia),Center,6'8,6,167,20.1,0.197,24.5,15.8,7.5,1.6,0.7,1.6,53.9%,28%,75.8%
+3,2011,Chicago Sky,Courtney Vandersloot,Gonzaga,Guard,5'8,12,359,29.7,0.117,28.3,10.2,3.2,6.6,1.3,0.4,45.2%,34%,83.1%
+4,2011,Minnesota Lynx,Amber Harris,Xavier,Forward,6'5,5,112,1.9,0.079,8.4,2.7,1.8,0.5,0.2,0.3,39.4%,0%,70.7%
+5,2011,Los Angeles Sparks,Jantel Lavender,Ohio State,Forward,6'4,11,342,15.8,0.092,20.1,8.1,4.6,1,0.3,0.5,49.5%,22.9%,81.9%
+6,2011,San Antonio Silver Stars,Danielle Robinson,Oklahoma,Guard,5'9,11,327,17.8,0.082,26.5,9.1,2.8,4.2,1.1,0.1,43.3%,19.9%,86.3%
+7,2011,Tulsa Shock,Kayla Pedersen,Stanford,Forward,6'4,6,184,2.4,0.033,15.9,3.4,3,1.1,0.6,0.3,37.5%,30.5%,70.7%
+8,2011,Atlanta Dream,Ta'Shia Phillips,Xavier,Center,6'6,1,15,0.2,0.104,4.8,1.5,1.3,0.1,0,0.2,53.3%,0%,50%
+9,2011,Indiana Fever,Jeanette Pohlen-Mavunga,Stanford,Guard,6'0,6,148,3.9,0.078,13.4,3.4,1.2,0.8,0.4,0.1,42.7%,42%,82.5%
+10,2011,New York Liberty,Alex Montgomery,Georgia Tech,Guard-Forward,6'1,8,216,2.5,0.028,16.3,4.2,3.4,1.2,0.5,0.2,37.4%,34.1%,76.5%
+11,2011,Washington Mystics,Victoria Dunlap,Kentucky,Forward,6'1,2,31,0.3,0.046,8,2.3,1.7,0.4,0.6,0.2,41.8%,33.3%,55.6%
+12,2011,Seattle Storm,Jasmine Thomas,Duke,Guard,5'9,12,358,11.7,0.05,26,9.6,2.8,3.7,1.2,0.2,36.9%,29.7%,77%
+13,2011,Minnesota Lynx,Jessica Breland,UNC,null,null,9,269,10.8,0.076,21.2,7.1,5.9,1.4,null,null,null,null,null
+14,2011,Minnesota Lynx,Felicia Chester,DePaul,null,null,1,4,0,0.068,6.8,0.5,2,0,null,null,null,null,null
+15,2011,Chicago Sky,Carolyn Swords,Boston College,null,null,9,250,9.6,0.123,12.5,3.7,3.3,0.5,null,null,null,null,null
+16,2011,Connecticut Sun,Sydney Colson,Texas A&M,null,null,8,182,1.7,0.032,11.8,3.1,0.9,1.9,null,null,null,null,null
+17,2011,Chicago Sky,Angie Bjorklund,Tennessee,null,null,1,7,-0.1,-0.067,6.1,1.1,0.3,0.3,null,null,null,null,null
+18,2011,Atlanta Dream,Rachel Jarry,Bulleen Boomers (Australia),null,null,1,27,0.3,0.07,6.8,1.7,0.7,0.4,null,null,null,null,null
+19,2011,Phoenix Mercury,Brittany Spears,Colorado,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2011,San Antonio Silver Stars,Danielle Adams,Texas A&M,null,null,6,174,10.4,0.125,19.1,10.5,3.9,0.8,null,null,null,null,null
+21,2011,Tulsa Shock,Italee Lucas,UNC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2011,New York Liberty,Angel Robinson,Marquette,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2011,Washington Mystics,Karima Christmas-Kelly,Duke,null,null,10,243,15.1,0.108,22.9,7.9,3.7,1.3,null,null,null,null,null
+24,2011,Seattle Storm,Ify Ibekwe,Arizona,null,null,2,9,-0.2,-0.251,3.4,0.7,0.9,0,null,null,null,null,null
+25,2011,Tulsa Shock,Chastity Reed,Little Rock,null,null,1,11,-0.5,-0.125,13.2,3.5,1.9,0.7,null,null,null,null,null
+26,2011,Minnesota Lynx,Kachine Alexander,Iowa,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2011,Chicago Sky,Amy Jaeschke,Northwestern,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2011,Connecticut Sun,Adrienne Johnson,Louisiana Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2011,Los Angeles Sparks,Elina Babkina,Lotos VBW Clima Gdynia (Poland),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2011,San Antonio Silver Stars,Porsha Phillips,Georgia,null,null,1,31,0.3,0.052,8.3,1.8,1.9,0.3,null,null,null,null,null
+31,2011,Phoenix Mercury,Tahnee Robinson,Nevada,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2011,Atlanta Dream,Kelsey Bolte,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2011,Indiana Fever,Jori Davis,Indiana,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2011,New York Liberty,Mekia Valentine,UC Santa Barbara,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2011,Washington Mystics,Sarah Krnjic,PÃ©cs 2010 (Hungary),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2011,Seattle Storm,Krystal Thomas,Duke,null,null,7,176,3.6,0.051,16.2,3.6,4.9,0.5,null,null,null,null,null
+1,2010,Connecticut Sun,Tina Charles,UConn,Center,6'4,12,391,42.2,0.134,32.2,18.2,9.3,2.2,0.8,0.9,45.2%,31.6%,78.64%
+2,2010,Minnesota Lynx,Monica Wright,Virginia,Guard,5'10,7,177,5.3,0.064,18.5,7.3,2.2,1.6,0.9,0.2,40.2%,30.3%,77.1%
+3,2010,Minnesota Lynx,Kelsey Griffin,Nebraska,Forward,6'2,5,164,7.3,0.099,18,4.9,4.2,0.8,0.9,0.5,37.6%,25.6%,73.4%
+4,2010,Chicago Sky,Epiphanny Prince,Rutgers University,Guard,5'9,13,305,29.8,0.168,23.2,11,2.3,2.6,1.4,0.2,40.9%,37.8%,86.6%
+5,2010,San Antonio Silver Stars,Jayne Appel-Marinelli,Stanford,Center,6'4 ,7,219,10.2,0.092,20.3,4,6.1,1.5,0.6,0.9,49.8%,21.1%,63.9%
+6,2010,Washington Mystics,Jacinta Monroe,Florida State,Forward,6'5,2,21,0.2,0.045,6.6,1.7,1,0.2,0.2,0.4,42.9%,0%,50%
+7,2010,Connecticut Sun,Danielle McCray,Kansas,Forward,5'11,3,80,1.3,0.047,13.9,4.6,2,1.1,0.6,0.1,34.3%,36.6%,78.9%
+8,2010,Los Angeles Sparks,Andrea Riley,Oklahoma State,Guard,5'5,3,73,-1.9,-0.078,13,4.4,0.9,1.4,0.7,0.1,29.4%,22.2%,84.4%
+9,2010,Atlanta Dream,Chanel Mokango,Mississippi State,Forward,6'5 ,1,21,-0.2,-0.126,3.4,0.4,0.6,0,0.1,0.5,17.6%,0%,75%
+10,2010,Seattle Storm,Alison Lacey,Iowa State,Guard,6'0,1,21,-0.3,-0.073,6.9,0.8,0.8,0.5,0.3,0,11.4%,11.1%,100%
+11,2010,Indiana Fever,Jene Morris,San Diego State,Guard,5'9,2,34,0.3,0.037,8.2,2.6,0.7,0.4,0.4,0.1,41.5%,38.3%,60%
+12,2010,Los Angeles Sparks,Bianca Thomas,Ole Miss,Guard,5'10,0,null,null,null,null,null,null,null,null,null,null,null,null
+13,2010,New York Liberty,Kalana Greene,UConn,null,null,6,167,5.6,0.072,18.6,4.3,2.5,1.2,null,null,null,null,null
+14,2010,Washington Mystics,Jenna Smith,Illinois,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+15,2010,Connecticut Sun,Allison Hightower,LSU,null,null,6,125,3.8,0.063,19.3,6.1,1.8,1.6,null,null,null,null,null
+16,2010,New York Liberty,Ashley Houts,Georgia,null,null,1,20,0.2,0.078,5.5,0.9,0.7,0.5,null,null,null,null,null
+17,2010,San Antonio Silver Stars,Alysha Clark,Middle Tennessee,null,null,10,302,20.6,0.117,23.2,7,3.5,1.5,null,null,null,null,null
+18,2010,Washington Mystics,Shanavia Dowdell,Louisiana Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+19,2010,Tulsa Shock,Amanda Thompson,Oklahoma,null,null,2,28,0.2,0.029,8,1.7,2,0.5,null,null,null,null,null
+20,2010,Los Angeles Sparks,Angel Robinson,Georgia,null,null,3,64,1,0.06,10.2,2.6,2.6,0.4,null,null,null,null,null
+21,2010,Atlanta Dream,Brigitte Ardossi,Georgia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2010,Seattle Storm,Tanisha Smith,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2010,Indiana Fever,Armelie Lumanu,Mississippi State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2010,Phoenix Mercury,Tyra Grant,Penn State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2010,New York Liberty,Cory Montgomery,Nebraska,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2010,Minnesota Lynx,Gabriela Marginean,Drexel,null,null,1,4,0,-0.095,3,0.5,1,0.3,null,null,null,null,null
+27,2010,Connecticut Sun,Johannah Leedham,Franklin Pierce University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2010,Chicago Sky,Abi Olajuwon,Oklahoma,null,null,2,22,-0.4,-0.123,5.9,1,0.7,0.1,null,null,null,null,null
+29,2010,San Antonio Silver Stars,Alexis Rack,Mississippi State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2010,Washington Mystics,Alexis Gray-Lawson,California,null,null,2,46,-0.2,-0.011,13.6,4.1,1.3,1.3,null,null,null,null,null
+31,2010,Tulsa Shock,Vivian Frieson,Gonzaga,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2010,Los Angeles Sparks,Rashidat Junaid,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2010,Atlanta Dream,Brittainey Raven,Texas,null,null,1,23,0,-0.008,5.4,1.5,0.9,0.4,null,null,null,null,null
+34,2010,Seattle Storm,Tijana Krivacevic,Hungary,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2010,Indiana Fever,Joy Cheek,Duke,null,null,2,10,-0.1,-0.093,5,1.8,0.6,0.1,null,null,null,null,null
+36,2010,Phoenix Mercury,Nyeshia Stevenson,Oklahoma,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2009,Atlanta Dream,Angel McCoughtry,Louisville,Forward-Guard,6'1,13,311,37.6,0.173,28,18.6,5,2.9,2,0.6,42.9%,29.3%,80.2%
+2,2009,Washington Mystics,Marissa Coleman,Maryland,Guard-Forward,6'1,10,319,9.8,0.058,21,6.7,3.1,1.3,0.7,0.3,37.1%,34.2%,76.2%
+3,2009,Chicago Sky,Kristi Toliver,Maryland,Guard,5'7,13,369,30.9,0.122,27.4,12,2.2,3.5,0.9,0.1,44.3%,38.3%,87.9%
+4,2009,Minnesota Lynx,Renee Montgomery,UConn,Guard,5'7,11,364,19.8,0.092,23.6,9.7,1.7,3.1,1,0.1,38.6%,34.7%,84%
+5,2009,Phoenix Mercury,DeWanna Bonner,Auburn,Guard-Forward,6'4,13,422,51.7,0.162,30.3,14.7,6.2,2.3,1.2,0.6,40.6%,30.5%,85.8%
+6,2009,Indiana Fever,Briann January,Arizona State,Guard,5'8,14,393,17.5,0.069,25.8,7.8,1.7,3.4,1,0.2,38.5%,37.6%,84.5%
+7,2009,Sacramento Monarchs,Courtney Paris,Oklahoma,Center,6'4,10,297,15.9,0.136,15.8,4.7,5.4,0.7,0.4,0.6,52.9%,0%,48.7%
+8,2009,New York Liberty,Kia Vaughn,Rutgers University,Center,6'4,13,386,11.9,0.067,18.5,5.9,4.2,0.8,0.5,0.5,46.8%,10%,66.8%
+9,2009,Minnesota Lynx,Quanitra Hollingsworth,VCU,Center,6'5,5,124,1.9,0.05,12.2,3.6,3.2,0.2,0.4,0.2,45.6%,0%,67.3%
+10,2009,Connecticut Sun,Chante Black,Duke,Center,6'5 ,4,97,1.7,0.044,15.6,3.8,4.2,0.4,0.5,1,48.2%,0%,53.2%
+11,2009,Detroit Shock,Shavonte Zellous,Pitt,Guard,5'10,12,363,20.2,0.101,21.9,8.5,2.7,1.9,0.7,0.4,39.8%,29.1%,80.1%
+12,2009,Seattle Storm,Ashley Walker,California,Forward-Center,6'1,4,25,-0.4,-0.085,7,1.5,1.7,0.4,0.3,0.2,22%,15%,81.8%
+13,2009,Los Angeles Sparks,Lindsay Wisdom-Hylton,Purdue,Forward,6'2,4,124,2.2,0.062,11.4,3.2,2.4,0.6,0.5,0.6,47.4%,20%,67.5%
+14,2009,San Antonio Silver Stars,Megan Frazee,Liberty,null,null,2,39,0.8,0.073,10.9,4.7,2.7,0.4,null,null,null,null,null
+15,2009,Minnesota Lynx,Rashanda McCants,UNC,null,null,2,57,0,0.002,15,4.8,2.1,0.9,null,null,null,null,null
+16,2009,Chicago Sky,Danielle Gant,Texas A&M,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+17,2009,Connecticut Sun,Lyndra Littles,Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+18,2009,Detroit Shock,Britany Miller,Florida State,null,null,1,1,0,-0.041,8,0,0,0,null,null,null,null,null
+19,2009,Indiana Fever,Christina Wirth,Vanderbilt,null,null,1,21,0.2,0.063,5.8,1,0.7,0.6,null,null,null,null,null
+20,2009,Sacramento Monarchs,Whitney Boddie,Auburn,null,null,1,4,0,0.002,2.3,0.5,0,0,null,null,null,null,null
+21,2009,New York Liberty,Abby Waner,Duke,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2009,Los Angeles Sparks,Ashley Paris,Oklahoma,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2009,Washington Mystics,Camille LeNoir,USC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2009,Washington Mystics,Jelena Milovanovic,MKB Euroleasing,null,null,1,16,0.1,0.021,11.3,4.4,1.5,0.6,null,null,null,null,null
+25,2009,Atlanta Dream,Shalee Lehning,Kansas State,null,null,3,85,2.1,0.049,20,3.1,2.3,3.8,null,null,null,null,null
+26,2009,San Antonio Silver Stars,Sonja Petrovic,Serbia,null,null,2,61,1.2,0.054,15,5,2.2,0.8,null,null,null,null,null
+27,2009,Atlanta Dream,Jessica Morrow,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2009,Washington Mystics,Josephine Owino,Union University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2009,Chicago Sky,Jennifer Risper,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2009,Minnesota Lynx,Emily Fox,Minnesota,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2009,Phoenix Mercury,Sha Brooks,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2009,Indiana Fever,Danielle Campbell,Purdue,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2009,Sacramento Monarchs,Morgan Warburton,Utah,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2009,Phoenix Mercury,Jessica Adair,George Washington,null,null,3,51,1.5,0.119,9.9,3.6,2.7,0.3,null,null,null,null,null
+35,2009,Los Angeles Sparks,Britney Jordan,Texas A&M University-Commerce,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2009,Connecticut Sun,Alba Torrens,Real Club Celta Indepo (Spain),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2009,Detroit Shock,Tanae Davis-Cain,Florida State,null,null,1,1,-0.1,-0.531,4,2,2,0,null,null,null,null,null
+38,2009,Seattle Storm,Mara Freshour,Florida State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2009,San Antonio Silver Stars,Candyce Bingham,Louisville,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2008,Los Angeles Sparks,Candace Parker,Tennessee,Forward-Center,6'4,15,392,62.2,0.207,30.7,16.4,8.6,4,1.3,1.5,47.7%,33.4%,76.9%
+2,2008,Chicago Sky,Sylvia Fowles,LSU,Center,6'6,15,408,73.5,0.239,30.2,15.7,9.8,1.1,1.2,1.8,59.9%,100%,72.8%
+3,2008,Minnesota Lynx,Candice Wiggins,Stanford,Guard,5'11,8,221,12,0.098,22.3,8.6,2.4,1.9,1,0.2,37.1%,36.3%,83.3%
+4,2008,Detroit Shock,Alexis Hornbuckle,Tennessee,Guard,5'10,6,187,2,0.023,19,4.6,3.2,1.8,1.2,0.3,35.1%,33%,63.9%
+5,2008,Houston Comets,Matee Ajavon,Rutgers University,Guard,5'8,10,323,4,0.029,17.4,6.9,1.8,1.8,1,0.1,34.7%,26.6%,78.2%
+6,2008,Washington Mystics,Crystal Langhorne,Maryland,Forward-Center,6'2,13,406,34.4,0.132,25.7,10.9,6,1.1,0.8,0.3,56%,25.5%,70.2%
+7,2008,New York Liberty,Essence Carson,Rutgers University,Guard,6'0,13,367,11.8,0.064,20.1,7.2,2.3,1.2,0.8,0.3,40.4%,32.2%,79.2%
+8,2008,Atlanta Dream,Tamera Young,James Madison University,Forward,6'2,12,372,6.7,0.033,22,7.1,3.9,1.5,0.8,0.2,39.8%,30%,68.6%
+9,2008,Connecticut Sun,Amber Holt,Middle Tennessee,Forward,6'0,5,140,4.2,0.058,20.8,6.9,2.9,1.8,0.6,0.1,37.5%,29.3%,80.6%
+10,2008,Sacramento Monarchs,Laura Harper,Maryland,Forward-Center,6'5,2,67,1.9,0.076,15.2,5,3.7,0.5,0.4,0.6,43.4%,0%,64.9%
+11,2008,Detroit Shock,Tasha Humphrey,Georgia,Center,6'3,2,58,2.3,0.103,15.8,7.2,3.2,0.7,0.5,0.3,42.5%,34.5%,78.6%
+12,2008,Connecticut Sun,Ketia Swanier,UConn,Guard,5'7,5,153,-1.3,-0.03,11.5,2.5,1.4,1.7,0.5,0,34.8%,28.3%,71.4%
+13,2008,Phoenix Mercury,LaToya Sanders,UNC,Forward,6'3,7,155,11.4,0.167,17.6,5.7,4.5,1,0.7,1.3,50.3%,50%,84%
+14,2008,New York Liberty,Erlana Larkins,UNC,Forward,6'1,9,247,20.2,0.158,20.7,5.9,5.4,1.5,1,0.3,55.4%,0%,74.9%
+15,2008,Los Angeles Sparks,Shannon Bobbitt,Tennessee,null,null,4,118,0.1,0.002,14.9,3.2,1.4,2.2,null,null,null,null,null
+16,2008,Minnesota Lynx,Nicky Anosike,Tennessee,null,null,5,139,12.5,0.134,26.8,8.9,6.6,1.7,null,null,null,null,null
+17,2008,Houston Comets,Erica White,LSU,null,null,2,36,0.4,0.034,12.3,3.4,1.4,1.4,null,null,null,null,null
+18,2008,Detroit Shock,Olayinka Sanni,West Virginia,null,null,3,76,0.5,0.03,9.2,3.3,1.7,0.3,null,null,null,null,null
+19,2008,Chicago Sky,Quianna Chaney,LSU,null,null,1,28,-0.2,-0.039,8.6,2.4,1,0.9,null,null,null,null,null
+20,2008,Washington Mystics,Lindsey Pluimer,UCLA,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2008,San Antonio Silver Stars,Chioma Nnamaka,Georgia Tech,null,null,1,12,-0.2,-0.11,7,1.3,1,0.2,null,null,null,null,null
+22,2008,Seattle Storm,Allie Quigley,DePaul,null,null,14,347,18.9,0.097,22.4,10.9,2,2,null,null,null,null,null
+23,2008,Connecticut Sun,Jolene Anderson,Wisconsin,null,null,1,24,0.1,0.006,15.3,4,2.4,1.1,null,null,null,null,null
+24,2008,Atlanta Dream,Morenike Atunrase,Texas A&M,null,null,1,33,0,-0.004,10.5,2.2,1.5,0.7,null,null,null,null,null
+25,2008,Phoenix Mercury,Leilani Mitchell,Utah,null,null,13,398,21,0.095,22.2,6.6,2.1,3,null,null,null,null,null
+26,2008,Indiana Fever,Khadijah Whittington,NC State,null,null,2,25,0.4,0.072,8.4,2.2,1.6,0.3,null,null,null,null,null
+27,2008,New York Liberty,Wanisha Smith,Duke,null,null,1,1,0,0,0,0,0,0,null,null,null,null,null
+28,2008,Detroit Shock,Natasha Lacy,Texas-El Paso,null,null,5,79,0.4,0.015,13.6,4.4,2.1,1.8,null,null,null,null,null
+29,2008,Los Angeles Sparks,Sharnee Zoll,Virginia,null,null,2,25,-0.3,-0.061,8.6,1.1,0.7,1.4,null,null,null,null,null
+30,2008,Minnesota Lynx,Charde Houston,UConn,null,null,7,206,6.2,0.066,18.3,8.7,3.3,1.2,null,null,null,null,null
+31,2008,Houston Comets,Crystal Kelly,Western Kentucky,null,null,3,93,3.6,0.123,12.5,4.8,2.1,0.4,null,null,null,null,null
+32,2008,Atlanta Dream,Danielle Hood,University of Hartford,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2008,Chicago Sky,Angela Tisdale,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2008,Washington Mystics,Krystal Vaughn,VCU,null,null,1,15,-0.4,-0.228,5.2,0.8,1,0,null,null,null,null,null
+35,2008,New York Liberty,Alberta Auguste,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2008,Seattle Storm,Kimberly Beck,George Washington,null,null,1,17,0.4,0.151,5.5,1,0.7,0.4,null,null,null,null,null
+37,2008,Connecticut Sun,Lauren Ervin,Arkansas,null,null,1,8,0,0.029,7,2,1.6,0,null,null,null,null,null
+38,2008,Sacramento Monarchs,A'Quonesia Franklin,Texas A&M,null,null,2,36,0,-0.004,10.3,1.5,1.3,1.7,null,null,null,null,null
+39,2008,San Antonio Silver Stars,Alex Anderson,Chattanooga,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+40,2008,Sacramento Monarchs,Izabela Piekarska,Texas-El Paso,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+41,2008,Phoenix Mercury,Marscilla Packer,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+42,2008,Detroit Shock,Val Berezhynska,Rice University,null,null,1,2,-0.1,-0.363,3,0,0,0,null,null,null,null,null
+43,2008,Sacramento Monarchs,Charel Allen,Notre Dame,null,null,1,6,0,-0.033,8.2,2.7,1,0.5,null,null,null,null,null
+1,2007,Phoenix Mercury,Lindsey Harding,Duke,Guard,5'8,9,270,14.3,0.074,28.7,9.8,2.9,4,1.1,0.2,41.4%,25.2%,75.5%
+2,2007,San Antonio Silver Stars,Jessica Davenport,Ohio State,Center,6'5,6,174,8,0.132,13.9,6.6,3.1,0.4,0.5,0.9,50.8%,14.3%,73.2%
+3,2007,Chicago Sky,Armintie Herrington,Ole Miss,Guard,5'9,9,290,14.4,0.092,21.5,5.9,3.3,2,1.2,0.2,45.4%,7.1%,56%
+4,2007,Minnesota Lynx,Noelle Quinn,UCLA,Guard,6'0,12,382,9.4,0.049,20.1,4.8,2.6,2.3,0.7,0.2,39.6%,32.2%,79.7%
+5,2007,New York Liberty,Tiffany Jackson-Jones,Texas,Forward,6'3,9,225,5.6,0.055,18.3,6.2,4.5,0.9,0.8,0.3,44.3%,33.3%,71.2%
+6,2007,Washington Mystics,Bernice Mosby,Baylor,Forward,6'1,3,76,0.9,0.06,8.3,2.3,2.2,0.2,0.2,0.2,41.9%,0%,79.6%
+7,2007,Seattle Storm,Katie Gearlds,Purdue,Guard-Forward,6'1,3,87,2.9,0.102,13.2,4.4,1.4,0.6,0.3,0.1,38.2%,38%,80.8%
+8,2007,Houston Comets,Ashley Shields,Southwest Tennessee Community College,Guard,5'10,2,36,-1,-0.114,10,4.5,1,0.6,0.3,0,27.5%,34.5%,72.8%
+9,2007,Indiana Fever,Alison Bales,Duke,Center,6'7,4,116,6.8,0.142,16.4,4.1,3.9,0.7,0.5,1.3,45.8%,37.8%,76.1%
+10,2007,Chicago Sky,Carla Thomas,Vanderbilt,Forward,6'3,1,17,0.3,0.087,7.2,2.5,1.6,0.2,0.1,0.2,39.5%,0%,92.9%
+11,2007,Detroit Shock,Ivory Latta,UNC,Guard,5'6,11,323,17.5,0.09,24.2,10.7,1.7,2.7,0.8,0,39.3%,36.9%,84.8%
+12,2007,Connecticut Sun,Kamesha Hairston,Temple,Forward,6'0,1,17,0,-0.002,8.7,1.9,1.8,0.4,0.4,0,24.4%,25%,75%
+13,2007,Connecticut Sun,Sandrine Gruda,Valenciennes (France),Forward-Center,6'4,6,133,4.5,0.075,18,7.6,3.8,0.9,0.6,0.7,45.7%,18.2%,65.4%
+14,2007,Houston Comets,Dee Davis,Vanderbilt,null,null,1,3,-0.2,-0.342,6.3,2,0,0,null,null,null,null,null
+15,2007,Minnesota Lynx,Shay Murphy,USC,null,null,9,225,7.9,0.112,12.6,4.7,2.4,0.7,null,null,null,null,null
+16,2007,New York Liberty,Shay Doron,Maryland,null,null,1,7,0,0.029,5,1.4,0.4,0,null,null,null,null,null
+17,2007,San Antonio Silver Stars,Camille Little,UNC,null,null,13,431,21.7,0.081,24.8,8.2,4.2,1.4,null,null,null,null,null
+18,2007,Phoenix Mercury,Tyresa Smith,University of Delaware,null,null,1,1,0,-0.002,7,1,2,0,null,null,null,null,null
+19,2007,Washington Mystics,Megan Vogel,South Dakota State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2007,Chicago Sky,Stephanie Raymond,Northern Illinois,null,null,1,20,0,-0.006,9,3.1,0.7,1.4,null,null,null,null,null
+21,2007,Sacramento Monarchs,Jessica Dickson,South Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2007,Indiana Fever,Lyndsey Medders,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2007,Minnesota Lynx,Brooke Smith,Stanford,null,null,3,47,0.9,0.092,8.7,2.2,2.1,0.3,null,null,null,null,null
+24,2007,Minnesota Lynx,Kathrin Ress,Boston College,null,null,1,28,-0.2,-0.028,12.4,3,2.5,0.6,null,null,null,null,null
+25,2007,Los Angeles Sparks,Sidney Spencer,Tennessee,null,null,5,144,5.6,0.113,13.6,4.9,1.9,0.6,null,null,null,null,null
+26,2007,Connecticut Sun,Cori Chambers,Georgia,null,null,1,1,-0.1,-2.948,1,0,0,0,null,null,null,null,null
+27,2007,Chicago Sky,Jenna Rubino,DePaul,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2007,Phoenix Mercury,Leah Rush,Oklahoma,null,null,1,2,-0.1,-0.244,6,1.5,0,0,null,null,null,null,null
+29,2007,New York Liberty,Martina Weber,Iona College,null,null,1,2,-0.1,-0.595,2,0,0.5,0,null,null,null,null,null
+30,2007,San Antonio Silver Stars,Nare Diawara,Virginia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2007,Phoenix Mercury,Chrissy Givens,Middle Tennessee,null,null,1,3,-0.1,-0.206,3.3,0.7,0,0.7,null,null,null,null,null
+32,2007,Washington Mystics,Gillian Goring,NC State,null,null,1,21,0.7,0.176,7.4,2.6,2,0.1,null,null,null,null,null
+33,2007,Seattle Storm,Brandie Hoskins,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2007,Houston Comets,Kristen Newlin,Stanford,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2007,Indiana Fever,Ashley Key,NC State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2007,Sacramento Monarchs,Meg Bulger,West Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2007,Phoenix Mercury,Emily Westerberg,Arizona State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+38,2007,Los Angeles Sparks,Amanda Brown,Penn State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2007,Connecticut Sun,Kiera Hardy,Nebraska,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2006,Minnesota Lynx,Seimone Augustus,LSU,Guard-Forward,6'0,15,391,41.9,0.149,28.8,15.4,3.1,2.3,0.7,0.3,48%,36.3%,85.4%
+2,2006,Phoenix Mercury,Cappie Pondexter,Rutgers University,Guard,5'9,13,416,37.6,0.118,30.7,16.4,3.7,3.8,1,0.2,42.2%,35%,84.2%
+3,2006,Charlotte Sting,Monique Currie,Duke,Forward,6'0,13,411,29.3,0.12,23.7,10.3,4.1,1.8,0.9,0.3,40.1%,33.8%,82.3%
+4,2006,San Antonio Silver Stars,Sophia Young-Malcolm,Baylor,Forward,6'1,9,301,34.7,0.15,30.8,14.3,6,1.8,1.6,0.4,46.7%,22.3%,71.8%
+5,2006,Los Angeles Sparks,Lisa Willis,UCLA,Guard,6'1,4,84,2.5,0.097,12.1,4.5,1.6,0.4,0.8,0.1,39.1%,39.7%,79.5%
+6,2006,Chicago Sky,Candice Dupree,Temple,Forward,6'2,16,494,44.2,0.117,30.7,14,6.4,1.8,0.9,0.6,49.5%,24.4%,82.1%
+7,2006,Minnesota Lynx,Shona Thorburn,Utah,Guard,5'9,2,24,-0.6,-0.154,6.3,0.8,0.8,0.8,0.2,0.1,20.7%,12.5%,62.5%
+8,2006,Washington Mystics,Tamara James,Miami (FL),Guard-Forward,5'10,2,52,1.6,0.114,10.7,4.3,1.3,0.7,0.6,0.1,38.8%,33.9%,85.9%
+9,2006,Indiana Fever,La'Tangela Atkinson,UNC,Guard-Forward,6'1,4,68,0.7,0.037,11.2,2.6,2.2,0.7,0.6,0.2,43%,23.8%,54.7%
+10,2006,Charlotte Sting,Tye'sha Fluker,Tennessee,Center,6'5,3,78,-0.5,-0.027,8.9,2.4,1.6,0.3,0.1,0.4,34.6%,25%,71.4%
+11,2006,Seattle Storm,Barbara Turner,UConn,Guard-Forward,5'10,4,97,5.1,0.121,17.4,6.3,2.6,1.4,0.4,0.2,40.7%,30.5%,77.4%
+12,2006,New York Liberty,Sherill Baker,Georgia,Guard,5'8,4,75,0.7,0.023,16.5,6.9,2,1.7,1.2,0.1,36.3%,25%,82.5%
+13,2006,Sacramento Monarchs,Kim Smith,Utah,Forward,6'0,3,55,-0.1,-0.009,8.4,1.9,1,0.5,0.3,0,33.3%,40.6%,55.6%
+14,2006,Sacramento Monarchs,Scholanda Dorrell,LSU,Guard,5'11,7,222,1.5,0.015,17.7,6.6,1.5,0.8,1,0.2,37.2%,31.1%,71.2%
+15,2006,Houston Comets,Ann Strother,UConn,null,null,3,41,0.5,0.076,6.5,2,0.7,0.3,null,null,null,null,null
+16,2006,San Antonio Silver Stars,Shanna Zolman,Tennessee,null,null,4,117,2.6,0.054,16.3,7.9,1.2,1,null,null,null,null,null
+17,2006,Detroit Shock,Ambrosia Anderson,BYU,null,null,1,4,0,-0.11,2.5,0,1,0,null,null,null,null,null
+18,2006,Phoenix Mercury,Liz Moeggenberg,Michigan State,null,null,2,50,-0.3,-0.022,9.6,1.9,1.5,0.5,null,null,null,null,null
+19,2006,Washington Mystics,Nikki Blue,UCLA,null,null,5,111,0.3,0.01,11.8,2.7,1.3,1.6,null,null,null,null,null
+20,2006,Chicago Sky,Jennifer Harris,Washburn University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2006,Phoenix Mercury,Mistie Bass,Duke,null,null,10,285,12.6,0.124,14.3,4.6,3.1,0.7,null,null,null,null,null
+22,2006,Los Angeles Sparks,Willnett Crockett,UConn,null,null,1,5,0.1,0.098,8.2,1.8,2.2,0,null,null,null,null,null
+23,2006,New York Liberty,Brooke Queenan,Boston College,null,null,2,12,-0.3,-0.265,3.8,0.3,0.3,0.2,null,null,null,null,null
+24,2006,Houston Comets,Renae Camino,AIS (Australia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2006,Seattle Storm,Dalila Eshe,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2006,Indiana Fever,Kasha Terry,Georgia Tech,null,null,3,41,-0.8,-0.077,9.9,3.1,2.4,0.3,null,null,null,null,null
+27,2006,Charlotte Sting,LaToya Bond,Missouri,null,null,2,66,-0.4,-0.016,14.1,4,1.2,1.5,null,null,null,null,null
+28,2006,Connecticut Sun,Debbie Merrill,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2006,Houston Comets,Tiffany Stansbury,NC State,null,null,3,39,0.6,0.05,12.1,3.6,3.5,0.4,null,null,null,null,null
+30,2006,San Antonio Silver Stars,Khara Smith,DePaul,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2006,Minnesota Lynx,Megan Duffy,Notre Dame,null,null,3,42,0,-0.002,11.5,2.9,0.9,1.1,null,null,null,null,null
+32,2006,Phoenix Mercury,Crystal Smith,Iowa,null,null,3,78,1,0.03,16.3,4.5,1.3,1.5,null,null,null,null,null
+33,2006,Washington Mystics,Mariam Sy,Oklahoma City University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2006,Chicago Sky,Kerri Gardin,Virginia Tech,null,null,4,120,1.7,0.04,14.4,3.2,3,1,null,null,null,null,null
+35,2006,Detroit Shock,Zane Tamane,Western Illinois University,null,null,2,18,0.2,0.062,6.5,1.6,1.7,0.1,null,null,null,null,null
+36,2006,Los Angeles Sparks,Tiffany Porter-Talbert,Western Kentucky,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2006,New York Liberty,Christelle N'Garsanet,Missouri,null,null,1,15,-0.3,-0.116,6.1,1.8,1.2,0.3,null,null,null,null,null
+38,2006,Indiana Fever,Jessica Foley,Duke,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2006,Seattle Storm,Erin Grant,Texas Tech,null,null,1,17,0.2,0.047,12.4,1.5,1.1,2.2,null,null,null,null,null
+40,2006,Indiana Fever,Marina Kuzina,Nadezhda Orenburg (Russia),null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+41,2006,Sacramento Monarchs,Lamisha Augustine,San Jose State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+42,2006,Connecticut Sun,Marita Payne,Auburn,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2005,Charlotte Sting,Janel McCarville,Minnesota,Forward-Center,6'2,9,286,20.3,0.133,21.3,7.7,4.4,1.9,1,0.7,49.1%,27.8%,77.4%
+2,2005,Indiana Fever,Tan White,Mississippi State,Guard,5'7,10,320,10.9,0.061,22.1,8.1,2.4,1.8,1.1,0.2,37.5%,32%,80.8%
+3,2005,Phoenix Mercury,Sandora Irvin,TCU,Forward,6'3,6,111,1,0.049,7.1,1.7,2,0.3,0.2,0.5,33.3%,19.4%,69.4%
+4,2005,San Antonio Silver Stars,Kendra Wecker,Kansas State,Forward,5'11,4,58,-0.3,-0.017,12.2,3.7,1.8,1,0.3,0.1,33.1%,28.6%,75.8%
+5,2005,Houston Comets,Sancho Lyttle,Houston,Forward,6'5,15,392,35.7,0.152,23.9,8.9,6.6,1.5,1.6,0.6,47.3%,25.5%,70.4%
+6,2005,Washington Mystics,Temeka Johnson,LSU,Guard,5'3,11,327,10.9,0.055,24.3,8,2.7,4.2,1,0.1,40.7%,34.5%,82.5%
+7,2005,Detroit Shock,Kara Braxton,Georgia,Center-Forward,6'6,10,297,8.6,0.071,16.4,7.6,4.7,0.9,0.6,0.5,47.4%,28%,64.1%
+8,2005,Connecticut Sun,Katie Mattera,Liberty,Center,6'7,5,150,5.1,0.088,15.4,6.7,4.7,0.3,0.2,0.9,49.7%,0%,68.9%
+9,2005,Sacramento Monarchs,Kristin Haynie,Michigan State,Guard,5'9,5,160,1.7,0.03,14.1,3.5,1.6,1.8,0.9,0.1,35.2%,25.2%,79.8%
+10,2005,New York Liberty,Loree Moore,Tennessee,Guard,5'9,5,155,5.1,0.05,26.2,6,3.5,3.7,1.7,0.1,36.3%,33.7%,67.4%
+11,2005,Minnesota Lynx,Kristen Mann,UC Santa Barbara,Forward,6'2,6,130,3,0.052,17.9,5,2.4,1.3,0.5,0.2,39%,33.9%,76.3%
+12,2005,Seattle Storm,Tanisha Wright,Penn State,Guard,5'11,14,457,19.8,0.073,23.7,7.3,2.6,3.1,0.9,0.2,42.4%,30.8%,83.3%
+13,2005,Detroit Shock,Dionnah Jackson,Oklahoma,Guard,5'9,0,null,null,null,null,null,null,null,null,null,null,null,null
+14,2005,San Antonio Silver Stars,Shyra Ely-Gash,Tennessee,null,null,6,173,0.5,0.01,12.6,4,2.2,0.5,null,null,null,null,null
+15,2005,Houston Comets,Roneeka Hodges,Florida State,null,null,11,320,8.9,0.06,18.4,6,1.8,1.1,null,null,null,null,null
+16,2005,Indiana Fever,Yolanda Paige,West Virginia,null,null,1,13,0,-0.02,6,1.2,0.7,1,null,null,null,null,null
+17,2005,Minnesota Lynx,Jacqueline Batteast,Notre Dame,null,null,2,34,-0.2,-0.03,6.5,1.1,0.9,0.3,null,null,null,null,null
+18,2005,Phoenix Mercury,Angelina Williams,Illinois,null,null,2,37,-0.1,-0.014,7.5,2.2,1,0.6,null,null,null,null,null
+19,2005,Washington Mystics,Erica Taylor,Louisiana Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2005,Detroit Shock,Nikita Bell,UNC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+21,2005,Connecticut Sun,Erin Phillips,Adelaide Lightning (Australia),null,null,9,229,13.1,0.115,20,6.3,2.2,2,null,null,null,null,null
+22,2005,Sacramento Monarchs,Chelsea Newton,Rutgers University,null,null,5,144,5.1,0.073,19.4,5.1,1.8,1.6,null,null,null,null,null
+23,2005,New York Liberty,Tabitha Pool,Michigan,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2005,Charlotte Sting,Jessica Moore,UConn,null,null,9,222,3.1,0.042,13.2,2.9,2,0.4,null,null,null,null,null
+25,2005,Seattle Storm,Ashley Battle,UConn,null,null,6,142,2.8,0.052,15.1,5,2.4,1.1,null,null,null,null,null
+26,2005,Los Angeles Sparks,DeeDee Wheeler,Arizona,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+27,2005,San Antonio Silver Stars,Cathrine Kraayeveld,Oregon,null,null,9,275,10.5,0.069,22.2,7,3.7,1.1,null,null,null,null,null
+28,2005,Houston Comets,Jenni Dant,DePaul,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2005,Indiana Fever,Ashley Earley,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2005,Sacramento Monarchs,Anne O'Neil,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+31,2005,Phoenix Mercury,Jamie Carey,Texas,null,null,4,105,2.8,0.088,12.3,3.1,0.9,1.1,null,null,null,null,null
+32,2005,Washington Mystics,Tashia Morehead,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2005,Detroit Shock,Jenni Lingor,Missouri State University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2005,Connecticut Sun,Megan Mahoney,Kansas State,null,null,2,49,0.2,0.019,9.6,2.2,1.6,0.7,null,null,null,null,null
+35,2005,Sacramento Monarchs,Cisti Greenwalt,Texas Tech,null,null,1,5,-0.1,-0.165,4.8,0.4,1.6,0,null,null,null,null,null
+36,2005,New York Liberty,Rebecca Richman,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2005,Minnesota Lynx,Monique Bivins,Alabama,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+38,2005,Seattle Storm,Steffanie Blackmon,Baylor,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2005,Los Angeles Sparks,Heather Schreiber,Texas,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2004,Phoenix Mercury,Diana Taurasi,UConn,Guard,6'0,18,503,71.2,0.183,31,19.3,3.9,4.3,0.9,0.6,42.6%,36.1%,87.1%
+2,2004,Washington Mystics,Alana Beard,Duke,Guard-Forward,5'11,14,420,33.1,0.107,29.4,11.3,3.4,2.5,1.7,0.5,43.4%,33.6%,76.5%
+3,2004,Charlotte Sting,Nicole Powell,Stanford,Forward,6'2,11,360,30.3,0.134,25.1,9.5,4.1,1.6,1,0.3,39%,37.4%,82.9%
+4,2004,Connecticut Sun,Lindsay Whalen,Minnesota,Guard,5'9,15,480,59.8,0.176,28.3,11.5,3.8,4.9,1,0.1,46.1%,29.1%,81.2%
+5,2004,New York Liberty,Shameka Christon,Arkansas,Guard,6'3,11,317,16.2,0.087,23.5,9.6,2.7,1.2,0.6,0.5,37.6%,34.2%,82.2%
+6,2004,Minnesota Lynx,Nicole Ohlde,Kansas State,Forward-Center,6'5,7,223,10.4,0.08,23.5,8.8,4.7,1.5,0.4,0.8,43.7%,0%,75.5%
+7,2004,Minnesota Lynx,Vanessa Hayden,Florida,Center,6'4,5,148,2.2,0.045,13.1,5.6,3.6,0.5,0.3,1.2,42.3%,0%,59.2%
+8,2004,Phoenix Mercury,Chandi Jones,Houston,Guard,5'9,3,68,1.7,0.066,15.4,4.9,1.5,1.5,0.7,0.1,38%,38.1%,100%
+9,2004,Indiana Fever,Ebony Hoffman,USC,Forward,6'2,11,327,14.3,0.088,20,5.8,4.2,1.1,0.9,0.4,41.1%,34.5%,83.6%
+10,2004,Sacramento Monarchs,Rebekkah Brunson,Georgetown,Forward,6'2,15,453,48.6,0.17,25.2,9.2,7.4,1.1,0.9,0.6,46%,35.5%,68.4%
+11,2004,Detroit Shock,Iciss Tillis,Duke,Forward-Center,6'5,3,67,-0.3,-0.018,8.6,2.6,1.5,0.4,0.3,0.2,40.4%,24.5%,67.6%
+12,2004,Los Angeles Sparks,Christi Thomas,Georgia,Forward-Center,6'4,7,170,6.5,0.101,15.3,4.6,3.7,0.6,0.5,0.4,45.9%,27%,68.4%
+13,2004,Detroit Shock,Shereka Wright,Purdue,Forward,5'10,2,49,1,0.07,12,3.1,1.6,0.6,0.3,0.1,36.6%,35.4%,71.4%
+14,2004,Phoenix Mercury,Ashley Robinson,Tennessee,null,null,10,292,-0.1,-0.001,12.3,1.9,2.5,0.5,null,null,null,null,null
+15,2004,Washington Mystics,Kaayla Chones,NC State,null,null,3,28,-0.3,-0.073,6.8,1.5,0.8,0.2,null,null,null,null,null
+16,2004,Connecticut Sun,Jessica Brungo,Penn State,null,null,3,49,0,-0.003,7.5,1.1,0.9,0.6,null,null,null,null,null
+17,2004,New York Liberty,Amisha Carter,Louisiana Tech,null,null,2,5,-0.1,-0.179,5.2,0.2,1.2,0,null,null,null,null,null
+18,2004,Charlotte Sting,Kelly Mazzante,Penn State,null,null,7,200,3.9,0.054,14.4,4.7,1.6,0.9,null,null,null,null,null
+19,2004,Seattle Storm,Trina Frierson,Louisiana Tech,null,null,1,5,0,-0.006,4.4,1.4,1,0,null,null,null,null,null
+20,2004,Minnesota Lynx,Tasha Butts,Tennessee,null,null,1,30,0.6,0.054,14.1,2.5,2.1,0.8,null,null,null,null,null
+21,2004,San Antonio Silver Stars,Cindy Dallas,Illinois,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+22,2004,Charlotte Sting,Jenni Benningfield,Vanderbilt,null,null,1,10,0,0.023,5.2,0.9,0.6,0.4,null,null,null,null,null
+23,2004,Detroit Shock,Erika Valek,Purdue,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2004,Connecticut Sun,Ugo Oha,George Washington,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+25,2004,Los Angeles Sparks,Doneeka Lewis,LSU,null,null,6,110,0.2,0.004,14.2,3.7,1.2,1.6,null,null,null,null,null
+26,2004,Houston Comets,Lindsay Taylor,UC Santa Barbara,null,null,1,5,0,-0.011,5.2,0.6,0.6,0.4,null,null,null,null,null
+27,2004,Phoenix Mercury,Maria Villarroel,Oklahoma,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2004,Washington Mystics,Evan Unrau,Missouri,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2004,Connecticut Sun,Candace Futrell,Duquesne,null,null,1,20,0.3,0.091,7.2,2.1,1,0.5,null,null,null,null,null
+30,2004,New York Liberty,Cathy Joens,George Washington,null,null,2,45,1.3,0.099,12.1,4.3,1.5,1,null,null,null,null,null
+31,2004,Indiana Fever,Ieva Kublina,Virginia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2004,Detroit Shock,Jennifer Smith,Michigan,null,null,1,2,0,-0.221,3.5,0,0,0,null,null,null,null,null
+33,2004,Minnesota Lynx,Amber Jacobs,Boston College,null,null,5,139,0.2,0.003,15.8,4.4,1.3,2.1,null,null,null,null,null
+34,2004,San Antonio Silver Stars,Toccara Williams,Texas A&M,null,null,1,26,0.2,0.021,16,2.1,1.5,1.7,null,null,null,null,null
+35,2004,Charlotte Sting,Jia Perkins,Texas Tech,null,null,14,417,28.3,0.111,24.4,10.6,2.9,2,null,null,null,null,null
+36,2004,Sacramento Monarchs,Nuria Martinez,Spain,null,null,2,16,-0.4,-0.124,8.1,1.7,0.7,0.7,null,null,null,null,null
+37,2004,Houston Comets,Stacy Stephens,Texas,null,null,1,7,0,-0.049,5.1,0.6,1.3,0.4,null,null,null,null,null
+38,2004,Minnesota Lynx,Kate Bulger,West Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2003,Cleveland Rockers,LaToya Thomas,Mississippi State,Forward,6'2,6,150,9.4,0.112,22.4,9.3,3.6,1.1,0.6,0.3,46%,39.7%,81.1%
+2,2003,Sacramento Monarchs,Chantelle Anderson,Vanderbilt,Center,6'6,5,124,0.8,0.021,12.7,4.1,2,0.3,0.2,0.3,46.9%,0%,73%
+3,2003,Detroit Shock,Cheryl Ford,Louisiana Tech,Forward,6'3,7,196,23.6,0.169,28.4,10.8,9.7,1,1.1,0.8,45.8%,20%,59.6%
+4,2003,Phoenix Mercury,Plenette Pierson,Texas Tech,Forward,6'2,15,444,25.2,0.102,22.2,9.6,4.1,1.5,0.7,0.5,43.9%,30.2%,74.4%
+5,2003,Detroit Shock,Kara Lawson,Tennessee,Guard,5'9,13,377,35.2,0.152,24.5,9.8,2.6,2.5,0.5,0.1,42.3%,39.5%,89.2%
+6,2003,Indiana Fever,Gwen Jackson,Tennessee,Forward,6'3,3,77,2.3,0.061,19.8,5.7,4,0.5,0.3,0.3,42.7%,20%,65.9%
+7,2003,Washington Mystics,Aiysha Smith,LSU,Forward,6'2,2,60,0.1,0.006,13.8,3.7,2.2,0.4,0.5,0.4,37.2%,28%,57.4%
+8,2003,Seattle Storm,Jung Sun-Min,Gwangju Sinsegye Coolcats (South Korea),Center,6'1,1,17,0.1,0.018,6.9,1.8,0.6,0.1,0.3,0,40.6%,0%,100%
+9,2003,Charlotte Sting,Jocelyn Penn,South Carolina,Forward,6'0,2,31,0.4,0.049,9.4,2.9,1.7,0.5,0.5,0,41.3%,15.4%,66.7%
+10,2003,New York Liberty,Molly Creamer,Bucknell,Guard,5'10,0,null,null,null,null,null,null,null,null,null,null,null,null
+11,2003,San Antonio Silver Stars,Coretta Brown,UNC,Guard,5'9,4,77,0.3,0.011,15.5,4.5,1.3,1.3,0.5,0.1,34.5%,34.1%,73.7%
+12,2003,Houston Comets,Allison Curtin,Tulsa,Guard,5'11,0,null,null,null,null,null,null,null,null,null,null,null,null
+13,2003,Connecticut Sun,Courtney Coleman,Ohio State,null,null,1,20,0,0.011,7.1,1.8,1.1,0.1,null,null,null,null,null
+14,2003,Minnesota Lynx,Teresa Edwards,Georgia,null,null,2,68,1,0.026,22.8,5.5,2.9,3.3,null,null,null,null,null
+15,2003,Cleveland Rockers,Jennifer Butler,UMass,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+16,2003,Phoenix Mercury,Petra Ujhelyi,South Carolina,null,null,1,14,-0.4,-0.206,4.9,0.3,0.9,0.2,null,null,null,null,null
+17,2003,New York Liberty,Erin Thorn,BYU,null,null,11,283,7,0.066,15.1,4.8,1.3,1.5,null,null,null,null,null
+18,2003,Minnesota Lynx,Jordan Adams,New Mexico,null,null,1,10,0.1,0.032,9.6,3.3,2.3,0.4,null,null,null,null,null
+19,2003,Houston Comets,Lori Nero,Louisville,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+20,2003,Indiana Fever,DeTrina White,LSU,null,null,2,44,0.7,0.059,11.6,2.2,3.2,0.2,null,null,null,null,null
+21,2003,Washington Mystics,Zuzana Zirkova,Slovakia,null,null,1,6,0.1,0.162,5,1.8,0.3,0.2,null,null,null,null,null
+22,2003,Seattle Storm,Suzy Batkovic-Brown,Valenciennes (France),null,null,2,49,1.4,0.091,12.4,5,2.5,0.6,null,null,null,null,null
+23,2003,Charlotte Sting,Dana Cherry,Arkansas,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+24,2003,New York Liberty,Sonja Mallory,Georgia Tech,null,null,1,6,0,-0.035,7.3,1.7,1.7,0,null,null,null,null,null
+25,2003,San Antonio Silver Stars,Ke-Ke Tardy,LSU,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2003,New York Liberty,K.B. Sharp,Cincinnati,null,null,6,178,1.9,0.034,12.2,2.4,0.9,1.2,null,null,null,null,null
+27,2003,Los Angeles Sparks,Schuye LaRue,Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+28,2003,Detroit Shock,Syreeta Bromfield,Michigan State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+29,2003,Minnesota Lynx,Carla Bennett,Drake University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+30,2003,Cleveland Rockers,Shaquala Williams,Oregon,null,null,1,25,0.3,0.06,9.2,2,1.3,0.8,null,null,null,null,null
+31,2003,Phoenix Mercury,Telisha Quarles,Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2003,Washington Mystics,Trish Juhline,Villanova,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2003,Phoenix Mercury,Marion Jones,UNC,null,null,2,47,0.1,0.01,8.6,2.6,1.3,0.5,null,null,null,null,null
+34,2003,Connecticut Sun,Lindsey Wilson,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2003,Indiana Fever,Ashley McElhiney,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2003,Washington Mystics,Tamara Bowie,Ball State University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2003,Seattle Storm,Chrissy Floyd,Clemson,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+38,2003,Houston Comets,Constance Jinks,UNLV,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2003,New York Liberty,Nicole Kaczmarski,UCLA,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+40,2003,San Antonio Silver Stars,Brooke Armistead,Austin Peay State University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+41,2003,Houston Comets,Oxana Rakhmatulina,Russia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+42,2003,Los Angeles Sparks,Mary Jo Noon,Purdue,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2002,Seattle Storm,Sue Bird,UConn,Guard,5'9,19,580,61.6,0.136,31.2,11.7,2.5,5.6,1.2,0.1,42.9%,39.2%,85.3%
+2,2002,Detroit Shock,Swin Cash,UConn,Forward,6'1,15,479,35.6,0.106,28.1,10.7,5.3,2.4,0.8,0.5,40.7%,27.6%,75.7%
+3,2002,Washington Mystics,Stacey Dales,Oklahoma,Forward,6'0,5,150,6.3,0.065,25.9,9.2,2.2,2.7,0.6,0.1,38%,34.8%,73.9%
+4,2002,Washington Mystics,Asjha Jones,UConn,Forward,6'2,12,368,21,0.093,24.5,10.9,4.8,1.7,0.6,0.6,45%,27.3%,75.6%
+5,2002,Portland Fire,Nikki Teasley,UNC,Guard,6'0,7,207,15.4,0.104,28.5,8.2,3,4.7,1,0.3,37.6%,37.7%,83.5%
+6,2002,Minnesota Lynx,Tamika Williams,UConn,Forward,6'2 ,7,219,13.8,0.109,23.2,6.1,5.1,1,0.8,0.1,54.9%,16.1%,54.3%
+7,2002,Charlotte Sting,Sheila Lambert,Baylor,Guard,5'7,4,76,-0.2,-0.006,15,4.2,1.5,1.7,0.5,0.1,39.2%,30%,78.4%
+8,2002,Cleveland Rockers,Deanna Jackson,UAB,Forward,6'2,5,142,4.9,0.079,17.7,5.8,2.6,1,0.5,0.2,39.4%,33%,70.6%
+9,2002,Charlotte Sting,Shaunzinski Gortman,South Carolina,Guard,5'10,4,77,0.4,0.019,11.1,2.6,1.9,0.7,0.4,0.1,37.8%,28%,77.4%
+10,2002,Houston Comets,Michelle Snow,Tennessee,Center,6'5,13,402,31.5,0.133,23.6,8.4,6.2,1.1,0.7,1,50.6%,18.2%,70.4%
+11,2002,Utah Starzz,Danielle Crockrom,Baylor,Forward,6'1,1,18,0.1,0.058,4.7,1.6,0.7,0.1,0,0.1,35.7%,0%,75%
+12,2002,Sacramento Monarchs,Hamchetou Maiga-Ba,Old Dominion,Forward,6'2,9,275,5.7,0.05,16.5,5.3,2.4,1.1,0.9,0.2,44.1%,22.2%,60.9%
+13,2002,Indiana Fever,Tawana McDonald,Georgia,Center,6'3,0,null,null,null,null,null,null,null,null,null,null,null,null
+14,2002,Utah Starzz,LaNeishea Caufield,Oklahoma,Guard,5'9,1,8,0,0.029,8.1,2.4,0.6,0.1,0.9,0,40%,55.6%,100%
+15,2002,Miami Sol,Tamara Moore,Wisconsin,Guard,5'10,6,145,4.8,0.085,15.7,4.4,1.7,1.8,0.8,0.2,41.3%,32.5%,84.8%
+16,2002,Los Angeles Sparks,Rosalind Ross,Oklahoma,Guard,5'9,0,null,null,null,null,null,null,null,null,null,null,null,null
+17,2002,Indiana Fever,Zuzi Klimesova,Vanderbilt,null,null,2,12,-0.2,-0.144,3.5,0.6,0.4,0.2,null,null,null,null,null
+18,2002,Detroit Shock,Lenae Williams,DePaul,null,null,1,27,-0.6,-0.138,6.6,2.7,0.7,0.1,null,null,null,null,null
+19,2002,Seattle Storm,Lucienne Berthieu,Old Dominion,null,null,3,43,1,0.113,8.2,3,1.7,0.2,null,null,null,null,null
+20,2002,Detroit Shock,Ayana Walker,Louisiana Tech,null,null,6,132,2,0.052,11.6,2.7,2.4,0.4,null,null,null,null,null
+21,2002,Detroit Shock,Jill Chapman-Daily,Indiana,null,null,1,19,-0.1,-0.028,6.3,1.2,1.4,0,null,null,null,null,null
+22,2002,Detroit Shock,Kathy Wambe,Belgium,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+23,2002,Orlando Miracle,Davalyn Cunningham,Rutgers University,null,null,1,6,-0.1,-0.259,3.5,0,0.3,0,null,null,null,null,null
+24,2002,Cleveland Rockers,Brandi McCain,Florida,null,null,1,31,-0.3,-0.032,12.6,2.7,0.8,1.3,null,null,null,null,null
+25,2002,Phoenix Mercury,Tootie Shaw,Wichita State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+26,2002,New York Liberty,Linda Frohlich,UNLV,null,null,4,72,0.6,0.047,7,2.3,1.3,0.4,null,null,null,null,null
+27,2002,Utah Starzz,Andrea Gardner,Howard University,null,null,2,52,0.4,0.045,7.2,2.2,2.1,0.2,null,null,null,null,null
+28,2002,Seattle Storm,Felicia Ragland,Oregon State,null,null,4,72,1.9,0.074,13.8,3.7,1.6,0.9,null,null,null,null,null
+29,2002,Miami Sol,Lindsey Yamasaki,Stanford,null,null,2,39,0.1,0.01,7.6,1.7,0.7,0.5,null,null,null,null,null
+30,2002,Los Angeles Sparks,Gergana Slavtcheva,Florida International University,null,null,1,2,-0.1,-0.292,6,0,0,0.5,null,null,null,null,null
+31,2002,Cleveland Rockers,Angie Welle,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+32,2002,Los Angeles Sparks,Jackie Higgins,UNC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+33,2002,Washington Mystics,LaNisha Cartwell,Alabama,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2002,Indiana Fever,Kelly Komara,Purdue,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2002,Seattle Storm,Takeisha Lewis,Louisiana Tech,null,null,1,14,0.2,0.106,4.1,1.3,1.7,0.2,null,null,null,null,null
+36,2002,Washington Mystics,Teresa Geter,South Carolina,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2002,Portland Fire,Mandy Nightingale,Colorado,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+38,2002,Minnesota Lynx,Lindsey Meder,Iowa,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2002,Orlando Miracle,Saundra Jackson,Ole Miss,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+40,2002,Phoenix Mercury,Kayte Christensen,UC Santa Barbara,null,null,6,143,3,0.061,13.6,3.2,2.6,0.5,null,null,null,null,null
+41,2002,Charlotte Sting,Edniesha Curry,Oregon,null,null,2,33,0.1,0.009,9.6,1.7,0.7,1.1,null,null,null,null,null
+42,2002,Houston Comets,Shondra Johnson,Alabama,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+43,2002,Utah Starzz,Edmarie Lumbsley,Mobile University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+44,2002,Sacramento Monarchs,Alayne Ingram,Michigan,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+45,2002,Miami Sol,Jerica Watson,Iowa,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+46,2002,New York Liberty,Tracy Gahan,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+47,2002,Detroit Shock,Ericka Haney,Notre Dame,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+48,2002,Los Angeles Sparks,Rashana Barnes,Penn State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+49,2002,Indiana Fever,LaKeisha Taylor,Arizona,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+50,2002,Portland Fire,Melody Johnson,Arizona State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+51,2002,Sacramento Monarchs,Jermisha Dosty,Saint Mary's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+52,2002,Indiana Fever,Jillian Danker,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+53,2002,Portland Fire,Monique Cardenas,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+54,2002,Minnesota Lynx,Sharron Francis,Old Dominion,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+55,2002,Orlando Miracle,Tomeka Brown,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+56,2002,Phoenix Mercury,Amba Kongolo,NC Central,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+57,2002,Charlotte Sting,Jessie Stomski,Wisconsin,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+58,2002,Houston Comets,Cori Enghusen,Stanford,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+59,2002,Utah Starzz,Jacklyn Winfield,Southern University and A&M College,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+60,2002,Sacramento Monarchs,Elizabeth Pickney,Arizona,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+61,2002,Miami Sol,Jerkisha Dosty,Saint Mary's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+62,2002,New York Liberty,Deedee Warley,Maryland,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+63,2002,Cleveland Rockers,Marche Strickland,Maryland,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+64,2002,Los Angeles Sparks,Tiffany Thompson,Old Dominion,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2001,Seattle Storm,Lauren Jackson,Canberra Capitals (Australia),Forward-Center,6'6,12,317,73,0.288,32,18.9,7.7,1.4,1.1,1.8,46%,35.1%,84.2%
+2,2001,Charlotte Sting,Kelly Miller,Georgia,Guard,5'10,12,364,15.6,0.074,23.2,7.1,2.8,2.6,0.8,0.1,40.6%,38.2%,81.9%
+3,2001,Indiana Fever,Tamika Catchings,Tennessee,Forward,6'1,15,457,93.7,0.26,31.5,16.1,7.3,3.3,2.3,0.8,41.5%,35.5%,84%
+4,2001,Portland Fire,Jackie Stiles,Missouri State University,Guard,5'8,2,53,2.7,0.077,26.5,11.4,1.8,1.4,0.5,0.1,38.3%,40.6%,78.2%
+5,2001,Miami Sol,Ruth Riley,Notre Dame,Center,6'5,13,387,17.2,0.08,22.2,6.3,4.1,1.2,0.6,1.3,44.2%,29.7%,78.7%
+6,2001,Detroit Shock,Deanna Nolan,Georgia,Guard-Forward,5'9,9,293,31.3,0.137,31.3,13.6,3.8,3.2,1.3,0.3,41.6%,34.9%,81.1%
+7,2001,Minnesota Lynx,Svetlana Abrosimova,UConn,Forward,6'2,10,263,9.6,0.061,24.2,9.2,4.1,2.1,1.3,0.2,39.5%,35%,65.4%
+8,2001,Utah Starzz,Marie Ferdinand-Harris,LSU,Guard,5'9,10,305,14.7,0.08,24.2,9.8,2.7,1.7,1.1,0.1,40.2%,28%,79.5%
+9,2001,Washington Mystics,Coco Miller,Georgia,Guard,5'9,12,352,9,0.057,18.1,5.8,2.1,1.4,0.7,0.1,42.3%,33.6%,76.4%
+10,2001,Orlando Miracle,Katie Douglas,Purdue,Guard-Forward,6'0,14,412,48.9,0.155,30.7,13.5,3.8,2.6,1.5,0.3,41.6%,36.8%,80.5%
+11,2001,Cleveland Rockers,Penny Taylor,Dandenong Rangers (Australia),Forward,6'1,13,355,49,0.206,26.8,13,4.4,3,1.4,0.4,46.5%,38.2%,86.8%
+12,2001,Portland Fire,LaQuanda Barksdale,UNC,Guard,5'10,3,48,-0.2,-0.018,10.2,3.4,1.6,0.4,0.2,0.2,30.5%,26%,89.3%
+13,2001,Phoenix Mercury,Kristen Veal,Australia,Guard,5'10,2,52,-1.7,-0.066,19.6,3.6,1.7,3.2,0.9,0.1,28.9%,27.8%,76.4%
+14,2001,Indiana Fever,Kelly Schumacher,UConn,Center,6'5,9,222,5.7,0.065,15.8,4.9,3.1,0.5,0.3,0.8,45.8%,33.9%,76.4%
+15,2001,Houston Comets,Amanda Lassiter,Missouri,Forward,6'1,6,190,4.1,0.044,19.4,4.8,2.7,1.4,0.8,0.6,35.8%,32.6%,67%
+16,2001,Los Angeles Sparks,Camille Cooper,Purdue,Center,6'4,2,27,0.4,0.083,6.3,2,1,0.1,0.1,0.3,47.5%,0%,71.4%
+17,2001,Seattle Storm,Semeka Randall,Tennessee,null,null,4,123,-0.9,-0.015,18.5,5.8,2.5,1,null,null,null,null,null
+18,2001,Charlotte Sting,Tammy Sutton-Brown,Rutgers University,null,null,12,388,32.9,0.137,24.7,9,5.2,0.6,null,null,null,null,null
+19,2001,Indiana Fever,Niele Ivey,Notre Dame,null,null,5,131,3.5,0.064,17,3.1,1.1,1.7,null,null,null,null,null
+20,2001,Portland Fire,Jenny Mowe,Oregon,null,null,3,11,-0.1,-0.081,4.9,0.6,0.5,0,null,null,null,null,null
+21,2001,Miami Sol,Georgia Schweitzer,Duke,null,null,3,70,1.8,0.067,15,3.2,1.7,1.1,null,null,null,null,null
+22,2001,Detroit Shock,Jae Kingi-Cross,Australia,null,null,3,65,1.4,0.065,13.6,3.3,1.3,1.5,null,null,null,null,null
+23,2001,Minnesota Lynx,Erin Perperoglou,Master's College,null,null,8,218,11.3,0.112,18.4,5.7,3.1,1.2,null,null,null,null,null
+24,2001,Utah Starzz,Michaela Pavlickova,Denver,null,null,2,18,0,-0.032,2.8,0.4,0.6,0.1,null,null,null,null,null
+25,2001,Washington Mystics,Tamara Stocks,Florida,null,null,1,3,0,0.049,3.7,1,0.7,0,null,null,null,null,null
+26,2001,Orlando Miracle,Brooke Wyckoff,Florida State,null,null,8,242,4.5,0.04,18.6,3.1,3.1,1.3,null,null,null,null,null
+27,2001,Cleveland Rockers,Jaynetta Saunders,Texas A&M,null,null,2,56,-0.1,-0.01,9.9,3,1.4,0.5,null,null,null,null,null
+28,2001,Minnesota Lynx,Janell Burse,Tulane,null,null,8,233,11.9,0.111,18.5,6.8,4.1,0.5,null,null,null,null,null
+29,2001,Phoenix Mercury,Ilona Korstine,Russia,null,null,1,12,-0.2,-0.104,6.3,1.8,0.9,0.4,null,null,null,null,null
+30,2001,Sacramento Monarchs,Jackie Moore,Cal State Long Beach,null,null,1,18,0,-0.006,7.1,2.3,1.6,0.2,null,null,null,null,null
+31,2001,Houston Comets,Tynesha Lewis,NC State,null,null,6,143,2.4,0.051,13.1,4,1.5,0.9,null,null,null,null,null
+32,2001,Los Angeles Sparks,Nicole Levandusky,Xavier,null,null,1,13,0.2,0.111,5.2,1.5,0.7,0.5,null,null,null,null,null
+33,2001,Houston Comets,ShaRae Mansfield,Western Kentucky,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2001,Charlotte Sting,Jennifer Phillips,Xavier,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2001,Indiana Fever,Marlena Williams,Missouri,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,2001,Portland Fire,Rasheeda Clark,Pepperdine,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2001,Miami Sol,Levys Torres,Florida State,null,null,1,2,-0.1,-0.44,4,0,0,0,null,null,null,null,null
+38,2001,Detroit Shock,Svetlana Volnaya,Virginia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2001,Minnesota Lynx,Tombi Bell,Florida,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+40,2001,Utah Starzz,Shea Ralph,UConn,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+41,2001,Washington Mystics,Jamie Lewis,Ohio State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+42,2001,Orlando Miracle,Jaclyn Johnson,Kansas,null,null,1,17,0.1,0.02,8.2,2.1,1.4,0.5,null,null,null,null,null
+43,2001,Cleveland Rockers,Angelina Wolvert,Oregon,null,null,1,1,0,0.031,5,2,1,0,null,null,null,null,null
+44,2001,Washington Mystics,Elena Karpova,Russia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+45,2001,Phoenix Mercury,Tere Williams,Virginia Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+46,2001,Sacramento Monarchs,Maren Walseth,Penn State,null,null,2,22,-0.3,-0.114,5.1,0.8,1,0.3,null,null,null,null,null
+47,2001,Houston Comets,Shala Crawford,Life University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+48,2001,Los Angeles Sparks,Kelley Siemon,Notre Dame,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+49,2001,Seattle Storm,Juana Brown,UNC,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+50,2001,Charlotte Sting,Reshea Bristol,Arizona,null,null,1,1,0,-0.391,5,0,2,0,null,null,null,null,null
+51,2001,Indiana Fever,April Brown,LSU,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+52,2001,Portland Fire,Natasha Pointer,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+53,2001,Phoenix Mercury,Carolyn Moos,Stanford,null,null,1,2,0,-0.154,3,0,0,0,null,null,null,null,null
+54,2001,Detroit Shock,Kelly Santos,Brazil,null,null,3,48,0.4,0.037,9.5,3,1.8,0.4,null,null,null,null,null
+55,2001,Minnesota Lynx,Megan Taylor,Iowa State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+56,2001,Utah Starzz,Cara Consuegra,Iowa,null,null,1,15,-0.4,-0.28,3.3,0.1,0.4,0.7,null,null,null,null,null
+57,2001,New York Liberty,Taru Tuukkanen,Xavier,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+58,2001,Orlando Miracle,Anne Thorius,Michigan,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+59,2001,Cleveland Rockers,Erin Batth,Clemson,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+60,2001,New York Liberty,Tara Mitchem,Missouri State University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+61,2001,Phoenix Mercury,Megan Franza,Washington,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+62,2001,Sacramento Monarchs,Katie Smrcka-Duffy,Georgetown,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+63,2001,Houston Comets,Kristen Clement,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+64,2001,Los Angeles Sparks,Beth Record,Syracuse,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,2000,Cleveland Rockers,Ann Wauters,Valenciennes (France),Center,6'4,9,220,20.2,0.153,24,9.9,5.1,1.3,0.7,0.7,53.6%,35.8%,75.9%
+2,2000,Washington Mystics,Tausha Mills,Alabama,Center,6'3,5,99,0.4,0.018,8.8,2.7,2.6,0.2,0.3,0.1,38.3%,0%,64.7%
+3,2000,Detroit Shock,Edwina Brown,Texas,Guard-Forward,5'9,5,130,-0.5,-0.007,19.4,5.1,2.7,2.2,0.9,0.2,33.4%,37.5%,80.3%
+4,2000,Orlando Miracle,Cintia dos Santos,Brazil,Center,6'5,3,68,1.4,0.049,16.8,4.9,2.4,0.7,0.3,1.2,43.2%,0%,74.3%
+5,2000,Minnesota Lynx,Grace Daley,Tulane,Guard,5'8,4,71,1.4,0.066,12.1,3.7,1.5,1.2,0.3,0,40%,26.8%,62.8%
+6,2000,Minnesota Lynx,Betty Lennox,Louisiana Tech,Guard,5'8,12,320,17.1,0.087,24.6,12.1,4.1,2,1,0.1,40.6%,33.5%,83.8%
+7,2000,Portland Fire,Lynn Pride,Kansas,Guard-Forward,6'2,4,112,0.7,0.015,16.6,3.8,3,1,0.6,0.5,37.7%,21.7%,60.7%
+8,2000,Detroit Shock,Tamicha Jackson,Louisiana Tech,Guard,5'6,7,151,2.6,0.035,19.5,6.8,1.7,2.6,1.2,0,37%,29.7%,71%
+9,2000,Seattle Storm,Kamila Vodichkova,BK Gambrinus,Forward-Center,6'4,7,202,13.3,0.11,24,8.8,5.1,1.4,0.9,0.5,44.4%,29.8%,77.8%
+10,2000,Minnesota Lynx,Maylana Martin,UCLA,Center-Forward,6'1,2,61,0.7,0.031,15.6,3.7,2.5,0.7,0.6,0.5,40.3%,29.7%,60.3%
+11,2000,Charlotte Sting,Summer Erb,NC State,Center,6'6,3,78,1.4,0.072,9.8,3,2.2,0.3,0.3,0.3,48%,0%,71.9%
+12,2000,Utah Starzz,Naomi Mulitauaopele,Stanford,Center,6'3,1,22,0.1,0.016,13.2,4.5,1.5,0.3,0.2,0.3,59.4%,66.7%,75%
+13,2000,New York Liberty,Olga Firsova,Kansas State,Center,6'8,1,9,0.1,0.128,2.1,1.3,0.4,0.1,0,0.1,40%,0%,80%
+14,2000,Sacramento Monarchs,Katy Steding,Stanford,Forward,6'0,2,55,1.1,0.064,12.8,3.5,1.3,0.7,0.5,0.3,37.6%,37.5%,66.7%
+15,2000,Los Angeles Sparks,Nicole Kubik,Nebraska,Guard,5'9,2,7,0,-0.009,5.7,1.1,0.6,1,0.6,0,28.6%,0%,100%
+16,2000,Houston Comets,Elena Shakirova,Russia,Center,6'3,3,41,1.5,0.163,8.7,2.3,1.6,0.3,0.3,0.1,36.8%,10.5%,75.9%
+17,2000,Cleveland Rockers,Helen Darling,Penn State,null,null,10,322,5.7,0.036,19.8,4.1,2,2.8,null,null,null,null,null
+18,2000,Washington Mystics,Tonya Massaline,Florida,null,null,4,98,0.2,0.008,9.7,2.6,1.2,0.4,null,null,null,null,null
+19,2000,Miami Sol,Jameka Jones,UNC Charlotte,null,null,1,21,-0.8,-0.134,11.1,3.3,1,0.5,null,null,null,null,null
+20,2000,Orlando Miracle,Jannon Roland,Purdue,null,null,1,21,-0.5,-0.113,8.2,1.6,0.8,0.4,null,null,null,null,null
+21,2000,Phoenix Mercury,Adrian Williams-Strong,USC,null,null,8,242,6,0.051,19.3,5.7,4.7,0.7,null,null,null,null,null
+22,2000,Minnesota Lynx,Marla Brumfield,Rice University,null,null,3,84,0.9,0.035,11.7,2.2,1.1,1,null,null,null,null,null
+23,2000,Portland Fire,Stacey Thomas,Michigan,null,null,6,145,2.4,0.042,15.9,3,2.4,1.6,null,null,null,null,null
+24,2000,Minnesota Lynx,Keitha Dickerson,Texas Tech,null,null,2,36,0.2,0.01,22.1,3.9,3.9,1.7,null,null,null,null,null
+25,2000,Seattle Storm,Charisse Sampson,Kansas,null,null,1,21,1.2,0.176,13.3,3.7,2,0.5,null,null,null,null,null
+26,2000,Indiana Fever,Jurgita Streimikyte,Pool Comense (Italy),null,null,3,88,4.6,0.101,20.6,6.3,3.5,1.5,null,null,null,null,null
+27,2000,Charlotte Sting,Tiffany Travis,Florida,null,null,1,32,0.5,0.035,17.9,5.4,2.5,0.8,null,null,null,null,null
+28,2000,Detroit Shock,Madinah Slaise,Cincinnati,null,null,1,3,0.1,0.407,2.3,1.3,0.3,0,null,null,null,null,null
+29,2000,New York Liberty,Desiree Francis,Iowa State,null,null,1,1,0,-0.564,2,0,0,0,null,null,null,null,null
+30,2000,Sacramento Monarchs,Stacy Clinesmith,UC Santa Barbara,null,null,3,54,0.9,0.076,8.6,1.9,0.7,1.5,null,null,null,null,null
+31,2000,Los Angeles Sparks,Paige Sauer,UConn,null,null,3,15,0.1,0.05,5.1,1.5,1.3,0.2,null,null,null,null,null
+32,2000,Houston Comets,Andrea Garner,Penn State,null,null,1,32,-0.6,-0.046,17.5,3.1,3,0.8,null,null,null,null,null
+33,2000,Cleveland Rockers,Monique Morehouse,Auburn,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+34,2000,Charlotte Sting,Jill Morton,Louisville,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+35,2000,Utah Starzz,Stacy Frese,Iowa State,null,null,1,21,0.6,0.115,10.6,3,0.9,0.8,null,null,null,null,null
+36,2000,Orlando Miracle,Shawnetta Stewart,Rutgers University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,2000,Phoenix Mercury,Tauja Catchings,Illinois,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+38,2000,Minnesota Lynx,Phylesha Whaley,Oklahoma,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,2000,Portland Fire,Maxann Reese,Michigan State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+40,2000,Miami Sol,Milena Flores,Stanford,null,null,1,32,-0.2,-0.017,14.8,3.5,0.7,1.5,null,null,null,null,null
+41,2000,Seattle Storm,Kirra Jordan,Rice University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+42,2000,Indiana Fever,Usha Gilmore,Rutgers University,null,null,1,4,-0.2,-0.318,5.3,0.5,1.3,0.5,null,null,null,null,null
+43,2000,Charlotte Sting,Peppi Browne,Duke,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+44,2000,Detroit Shock,Chavonne Hammond,Vanderbilt,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+45,2000,New York Liberty,Jessica Bibby,Dandenong Rangers (Australia),null,null,1,17,-0.2,-0.096,4.1,1.1,0.3,0.6,null,null,null,null,null
+46,2000,Sacramento Monarchs,Rhonda Banchero,Washington,null,null,1,9,-0.1,-0.119,2.3,0.7,0.3,0.1,null,null,null,null,null
+47,2000,Los Angeles Sparks,Marte Alexander,Arizona,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+48,2000,Houston Comets,Latavia Coleman,Florida State,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+49,2000,Cleveland Rockers,Sophie Von Saldern,California,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+50,2000,Indiana Fever,Latina Davis,Tennessee,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+51,2000,Utah Starzz,Kristen Rasmussen,Michigan State,null,null,9,276,12.9,0.095,19.7,4.4,3.6,1.3,null,null,null,null,null
+52,2000,Orlando Miracle,Romana Hamzova,Czech Republic,null,null,1,15,-0.1,-0.12,2.9,0.5,0.2,0.3,null,null,null,null,null
+53,2000,Phoenix Mercury,Shantia Owens,Kentucky,null,null,2,33,-0.3,-0.018,18.5,4,3,0.6,null,null,null,null,null
+54,2000,Minnesota Lynx,Jana Lichnerova,Saint Joseph's,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+55,2000,Portland Fire,Rhonda Smith,Cal State Long Beach,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+56,2000,Minnesota Lynx,Shanele Stires,Kansas State,null,null,3,48,0.1,0.011,7.1,1.9,1,0.5,null,null,null,null,null
+57,2000,Seattle Storm,Katrina Hibbert,LSU,null,null,1,20,-0.2,-0.03,12,2.7,1.5,0.9,null,null,null,null,null
+58,2000,Indiana Fever,Renee Robinson,Virginia,null,null,1,2,0.1,0.463,2.5,2,0,0,null,null,null,null,null
+59,2000,Charlotte Sting,Shaka Massey,Louisiana Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+60,2000,Detroit Shock,Cal Bouchard,Boston College,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+61,2000,New York Liberty,Natalie Porter,Australia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+62,2000,Sacramento Monarchs,Jessica Zinobile,Saint Francis University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+63,2000,Los Angeles Sparks,Nicky McCrimmon,USC,null,null,4,125,3.1,0.084,11.9,2.3,0.8,1.7,null,null,null,null,null
+64,2000,Houston Comets,Abbie Willenborg,Marquette,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+1,1999,Washington Mystics,Chamique Holdsclaw,Tennessee,Forward,6'2,11,279,33.2,0.145,32.9,16.9,7.6,2.5,1.3,0.5,44.3%,26.2%,79.4%
+2,1999,Sacramento Monarchs,Yolanda Griffith,Florida Atlantic University,Center-Forward,6'4,11,311,59.4,0.265,28.8,13.6,7.9,1.5,1.8,1.1,50.6%,0%,71.7%
+3,1999,Utah Starzz,Natalie Williams,UCLA,Center,6'2,7,221,29.3,0.171,31.1,13.1,8.3,1.4,1.2,0.6,47.4%,28.6%,74.1%
+4,1999,Los Angeles Sparks,DeLisha Milton-Jones,Florida,Forward,6'1,17,499,37.4,0.104,28.8,11.2,5.2,1.8,1.2,0.7,44%,32.6%,79.1%
+5,1999,Detroit Shock,Jennifer Azzi,Stanford,Guard,5'8,5,141,14.4,0.118,34.7,9.1,2.6,4.5,0.8,0.3,44.5%,45.8%,84.5%
+6,1999,New York Liberty,Crystal Robinson,Southeastern Oklahoma State University,Forward,5'11,9,245,26.4,0.143,30.1,10.2,2.7,2,1.1,0.3,42.7%,37.4%,85%
+7,1999,Minnesota Lynx,Tonya Edwards,Tennessee,Guard,5'10 ,4,125,5,0.071,22.7,9,2.3,1.7,0.8,0.2,36.2%,32.2%,77.5%
+8,1999,Orlando Miracle,Tari Phillips,Central Florida,Forward-Center,6'1,9,232,12.3,0.093,23,9.2,5.5,0.9,1.2,0.5,45.1%,12.5%,61.9%
+9,1999,Charlotte Sting,Dawn Staley,Virginia,Guard,5'6,8,263,17.7,0.083,32.5,8.5,2,5.1,1.3,0.1,39.9%,37.6%,83.4%
+10,1999,Phoenix Mercury,Edna Campbell,Texas,Guard,5'8,7,161,3.6,0.041,21.3,7.1,1.7,1.4,0.6,0.2,37.9%,38.8%,72.5%
+11,1999,Cleveland Rockers,Chasity Melvin,NC State,Center-Forward,6'3,12,393,33.9,0.129,26.6,9.7,5.4,1.3,0.9,0.6,46.3%,28.6%,67.8%
+12,1999,Houston Comets,Natalia Zasulskaya,Russia,Center-Forward,6'2,0,null,null,null,null,null,null,null,null,null,null,null,null
+13,1999,Washington Mystics,Shalonda Enis,Alabama,null,null,5,106,5.8,0.094,23.2,7.7,4.2,0.8,null,null,null,null,null
+14,1999,Sacramento Monarchs,Kedra Holland-Corn,Georgia,null,null,7,223,13.1,0.095,24.9,8.7,2.1,1.9,null,null,null,null,null
+15,1999,Utah Starzz,Debbie Black,Saint Joseph's,null,null,6,193,10.6,0.096,22.8,3.9,2.8,3.2,null,null,null,null,null
+16,1999,Los Angeles Sparks,Clarisse Machanguana,Old Dominion,null,null,4,118,4.5,0.109,14.2,4.1,2.6,0.5,null,null,null,null,null
+17,1999,Detroit Shock,Val Whiting-Raymond,Stanford,null,null,3,63,1.3,0.04,20.3,4.8,4.7,1.1,null,null,null,null,null
+18,1999,New York Liberty,Michele Van Gorp,Duke,null,null,6,132,0.5,0.012,11.4,3.2,2.1,0.4,null,null,null,null,null
+19,1999,Minnesota Lynx,Trisha Fallon,Australia,null,null,2,57,2.6,0.093,19.7,7,1.7,1,null,null,null,null,null
+20,1999,Orlando Miracle,Sheri Sam,Vanderbilt,null,null,10,328,20.4,0.088,28.3,10.2,4.1,2.3,null,null,null,null,null
+21,1999,Charlotte Sting,Stephanie White,Purdue,null,null,5,142,6.7,0.098,19.2,5.9,1.6,2,null,null,null,null,null
+22,1999,Phoenix Mercury,Clarissa Davis-Wrightsil,Texas,null,null,1,14,0.7,0.106,18.5,9.3,2.7,1.4,null,null,null,null,null
+23,1999,Cleveland Rockers,Mery Andrade,Old Dominion,null,null,5,140,4.7,0.068,19.9,4.2,2.1,2.1,null,null,null,null,null
+24,1999,Houston Comets,Sonja Henning,Stanford,null,null,5,151,4,0.043,24.5,3.2,2.3,2.3,null,null,null,null,null
+25,1999,Washington Mystics,Andrea Nagy,Florida International University,null,null,4,102,0.3,0.005,22.2,3.2,1.8,3.5,null,null,null,null,null
+26,1999,Sacramento Monarchs,Kate Starbird,Stanford,null,null,5,112,1.5,0.048,11.2,3.3,1.1,0.8,null,null,null,null,null
+27,1999,Utah Starzz,Adrienne Goodson,Old Dominion,null,null,7,221,12.1,0.075,29.2,12.2,5.1,2,null,null,null,null,null
+28,1999,Los Angeles Sparks,Ukari Figgs,Purdue,null,null,5,151,11.8,0.122,25.7,6.5,2.3,3.1,null,null,null,null,null
+29,1999,Detroit Shock,Dominique Canty,Alabama,null,null,14,380,11.9,0.052,24,7.3,2.5,2.8,null,null,null,null,null
+30,1999,New York Liberty,Tamika Whitmore,Memphis,null,null,11,350,20.4,0.095,24.4,9.6,3.9,1,null,null,null,null,null
+31,1999,Minnesota Lynx,Andrea Lloyd-Curry,Texas,null,null,2,46,2,0.066,26.8,6.3,3.9,2.5,null,null,null,null,null
+32,1999,Orlando Miracle,Taj McWilliams-Franklin,St. Edward's University,null,null,14,440,53.9,0.159,30.8,11.4,6.8,2,null,null,null,null,null
+33,1999,Charlotte Sting,Charlotte Smith,UNC,null,null,8,237,7.8,0.056,23.6,6,3.4,1.5,null,null,null,null,null
+34,1999,Phoenix Mercury,Lisa Harrison,Tennessee,null,null,6,187,10,0.088,24.2,6,3.6,1.2,null,null,null,null,null
+35,1999,Cleveland Rockers,Tracy Henderson,Georgia,null,null,3,61,-0.9,-0.068,8.6,1.8,2.1,0.2,null,null,null,null,null
+36,1999,Houston Comets,Kara Wolters,UConn,null,null,4,86,3.8,0.118,15,6.5,3.2,0.7,null,null,null,null,null
+37,1999,Washington Mystics,Jennifer Whittle,Australia,null,null,2,7,-0.4,-0.416,5.4,0,0.6,0,null,null,null,null,null
+38,1999,Sacramento Monarchs,Amy Herrig,Iowa,null,null,3,85,1.1,0.043,12.4,3.3,2.3,0.4,null,null,null,null,null
+39,1999,Utah Starzz,Dalma Ivanyi,Florida International University,null,null,5,106,-1.2,-0.031,14,2.1,1.5,1.8,null,null,null,null,null
+40,1999,Los Angeles Sparks,La'Keshia Frett,Georgia,null,null,7,201,4.2,0.06,13.7,4,1.9,0.8,null,null,null,null,null
+41,1999,Detroit Shock,Astou Ndiaye-Diatta,Southern Nazarene University,null,null,8,163,4.3,0.052,20.4,7.6,4.2,1,null,null,null,null,null
+42,1999,New York Liberty,Carolyn Young,Auburn,null,null,2,42,0.4,0.035,11.1,4.6,1.1,0.6,null,null,null,null,null
+43,1999,Minnesota Lynx,Sonja Tate,Arkansas State University,null,null,2,40,1.1,0.048,23.1,4.3,3.5,2.6,null,null,null,null,null
+44,1999,Orlando Miracle,Carla McGhee,Tennessee,null,null,4,81,-0.3,-0.016,8.9,1.9,1.5,0.4,null,null,null,null,null
+45,1999,Charlotte Sting,Angie Braziel,Texas Tech,null,null,3,52,0.7,0.049,11.3,3.9,2.3,0.3,null,null,null,null,null
+46,1999,Phoenix Mercury,Amanda Wilson,Louisiana Tech,null,null,2,15,0.1,0.093,2.9,0.9,0.5,0.2,null,null,null,null,null
+47,1999,Cleveland Rockers,Kellie Jolly Harper,Tennessee,null,null,1,1,-0.1,-0.716,4,0,0,1,null,null,null,null,null
+48,1999,Houston Comets,Jennifer Rizzotti,UConn,null,null,5,148,4.1,0.07,16,3.1,1.4,1.8,null,null,null,null,null
+49,1999,Minnesota Lynx,Angie Potthoff,Penn State,null,null,2,35,0.1,0.008,20.5,3.6,2.5,1.1,null,null,null,null,null
+50,1999,Orlando Miracle,Elaine Powell,LSU,null,null,10,265,10.2,0.071,21.7,5.7,2.5,2.8,null,null,null,null,null
+1,1998,Utah Starzz,Margo Dydek,Poland,Center,7'2,11,323,26.8,0.136,24.4,10,6.6,1.6,0.5,2.7,46.7%,29.5%,79.1%
+2,1998,Sacramento Monarchs,Ticha Penicheiro,Old Dominion,Guard,5'11,15,454,27.4,0.086,28.2,6.1,3.3,5.7,1.7,0.1,35.4%,24.9%,70.7%
+3,1998,Washington Mystics,Murriel Page,Florida,Forward,6'2,11,354,15.4,0.073,23.9,6.1,4.5,1.2,1.2,0.6,46.4%,25.9%,65.1%
+4,1998,Detroit Shock,Korie Hlede,Duquesne,Guard,5'9,5,133,5.8,0.076,22.9,8.9,2.8,2.1,0.9,0.1,41.4%,39.7%,80.5%
+5,1998,Los Angeles Sparks,Allison Feaster,Harvard University,Forward,5'11,10,284,18.2,0.115,22.2,8,2.4,1.4,0.8,0.2,37.8%,34.4%,83.5%
+6,1998,Cleveland Rockers,Cindy Blodgett,University of Maine,Guard,5'9,4,65,0.1,0.012,6.5,2.5,0.5,0.4,0.4,0,34.89%,29.9%,61.5%
+7,1998,Charlotte Sting,Tracy Reid,UNC,Forward,5'11,6,116,3.3,0.054,21.1,7.5,3.4,1,0.8,0.3,47%,0%,58.9%
+8,1998,Phoenix Mercury,Maria Stepanova,Russia,Center,6'8,5,114,8.5,0.164,18.2,7.6,4.7,0.9,0.7,1.6,48.3%,33.3%,62.6%
+9,1998,New York Liberty,Alicia Thompson,Texas Tech,Forward,6'1,6,143,3.8,0.072,14.9,5.3,2.5,0.7,0.4,0.1,43.7%,35.1%,70.6%
+10,1998,Houston Comets,Polina Tzekova,Bulgaria,Center,6'4,1,32,1.9,0.099,24.3,6.1,5.1,1,0.4,0.6,42.9%,25%,77.5%
+11,1998,Utah Starzz,Olympia Scott,Stanford,null,null,10,219,3.2,0.036,16,4.7,3.2,0.8,null,null,null,null,null
+12,1998,Sacramento Monarchs,Tangela Smith,Iowa,null,null,15,463,27.8,0.087,27.5,10.9,5,1.2,null,null,null,null,null
+13,1998,Washington Mystics,Rita Williams,UConn,null,null,6,186,6.9,0.069,21.7,6.4,2,2.2,null,null,null,null,null
+14,1998,Detroit Shock,Rachael Sporn,Australia,null,null,3,71,1.9,0.066,16.1,4,3.1,1.1,null,null,null,null,null
+15,1998,Los Angeles Sparks,Octavia Blue,Miami (FL),null,null,3,59,0,0.001,8.9,2.1,1.2,0.3,null,null,null,null,null
+16,1998,Cleveland Rockers,Suzie McConnell Serio,Penn State,null,null,3,78,3.2,0.062,26.9,6.7,2,4.8,null,null,null,null,null
+17,1998,Charlotte Sting,Christy Smith,Arkansas,null,null,2,28,0.5,0.04,16.7,3.6,1.3,2.6,null,null,null,null,null
+18,1998,Phoenix Mercury,Andrea Kuklova,Slovakia,null,null,2,34,-0.1,-0.008,10.4,2.9,1.1,0.9,null,null,null,null,null
+19,1998,New York Liberty,Nadine Domond,Iowa,null,null,1,9,-0.1,-0.048,10.2,3,1,1,null,null,null,null,null
+20,1998,Houston Comets,Nyree Roberts,Old Dominion,null,null,2,26,0.2,0.047,5.2,1.3,0.8,0.1,null,null,null,null,null
+21,1998,Utah Starzz,LaTonya Johnson,Memphis,null,null,7,179,-0.9,-0.014,14,3.8,1.3,0.7,null,null,null,null,null
+22,1998,Sacramento Monarchs,Quacy Barnes,Indiana,null,null,4,70,-0.8,-0.032,14.8,4.2,1.8,0.7,null,null,null,null,null
+23,1998,Washington Mystics,Angie Hamblin,Iowa,null,null,1,6,-0.2,-0.259,4.8,1,1.2,0.3,null,null,null,null,null
+24,1998,Detroit Shock,Gergana Branzova,Florida International University,null,null,1,26,0.1,0.022,7.8,2.7,1.6,0.3,null,null,null,null,null
+25,1998,Los Angeles Sparks,Rehema Stephens,UCLA,null,null,1,8,-0.5,-0.25,10.1,3.3,1.3,0.5,null,null,null,null,null
+26,1998,Cleveland Rockers,Tanja Kostic,Oregon State,null,null,2,10,-0.2,-0.108,7.6,1.2,0.7,0.6,null,null,null,null,null
+27,1998,Charlotte Sting,Pollyanna Johns Kimbrough,Michigan,null,null,6,134,4.5,0.103,12.9,3.2,2.5,0.5,null,null,null,null,null
+28,1998,Phoenix Mercury,Brandy Reed,Southern Miss,null,null,5,87,11.1,0.203,25.3,13.5,4.9,2,null,null,null,null,null
+29,1998,New York Liberty,Albena Branzova,Florida International University,null,null,1,11,-0.1,-0.042,8.5,2.1,1.5,0.5,null,null,null,null,null
+30,1998,Houston Comets,Amaya Valdemoro,Spain,null,null,3,55,0.8,0.1,5.9,2.3,0.8,0.5,null,null,null,null,null
+31,1998,Utah Starzz,Tricia Bader Binford,Boise State,null,null,5,100,-0.5,-0.028,7.6,1.4,0.5,0.8,null,null,null,null,null
+32,1998,Sacramento Monarchs,Adia Barnes,Arizona,null,null,7,132,2.4,0.047,15.3,3.8,2.6,0.9,null,null,null,null,null
+33,1998,Washington Mystics,Angela Jackson,Texas,null,null,1,7,0.1,0.132,5.1,1.4,0.6,0,null,null,null,null,null
+34,1998,Detroit Shock,Sandy Brondello,Australia,null,null,5,155,12.4,0.108,29.6,11.4,1.9,2.3,null,null,null,null,null
+35,1998,Los Angeles Sparks,Erika Keinast,UC Santa Barbara,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+36,1998,Cleveland Rockers,Tammye Jenkins,Georgia,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+37,1998,Charlotte Sting,Sonia Chase,Maryland,null,null,2,36,0.2,0.036,6.2,1.3,0.5,0.5,null,null,null,null,null
+38,1998,Phoenix Mercury,Karen Wilkins,Howard University,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+39,1998,New York Liberty,Vanessa Nygaard,Stanford,null,null,5,107,4.3,0.098,16.2,4.6,2.3,0.5,null,null,null,null,null
+40,1998,Houston Comets,Monica Lamb,USC,null,null,3,46,3.8,0.185,17.9,4.3,3.8,0.3,null,null,null,null,null
+1,1997,Houston Comets,Tina Thompson,USC,Forward,6'2,17,496,60.7,0.151,32.4,15.1,6.2,1.6,0.9,0.8,41.8%,37.1%,83.1%
+2,1997,Sacramento Monarchs,Pamela McGee,USC,Forward-Center,6'3,2,57,2,0.064,22.1,8.6,4.6,0.6,0.9,0.7,44.9%,18.2%,67%
+3,1997,Los Angeles Sparks,Jamila Wideman,Stanford,Guard,5'6,4,84,-1.3,-0.037,16.6,2.2,1.4,2.5,0.7,0,25.4%,18.6%,73.8%
+4,1997,Cleveland Rockers,Eva Nemcova,Bourges (France),Forward,6'3,5,111,10.4,0.122,30.6,11.7,3.5,1.9,1.1,0.6,44.2%,40.2%,89.7%
+5,1997,Utah Starzz,Tammi Reiss,Virginia,Guard,5'6,2,50,-0.1,-0.002,26.2,7.2,2.3,2.7,0.7,0.1,34.5%,29.7%,72.6%
+6,1997,New York Liberty,Sue Wicks,Rutgers University,Forward,6'3,6,182,7.2,0.084,18.8,4.5,4.3,1,0.9,0.9,40.2%,13.2%,69.7%
+7,1997,Charlotte Sting,Tora Suber,Virginia,Guard,5'7,3,83,1.4,0.046,15.3,4,1.3,1.8,0.6,0,33.1%,32.8%,63.9%
+8,1997,Phoenix Mercury,Toni Foster,Iowa,Forward-Center,6'1,3,54,4.9,0.195,18.4,6.5,3.9,0.9,1.2,0.5,47.3%,16.7%,71.7%
+9,1997,Phoenix Mercury,Tia Jackson,Iowa,null,null,1,26,0.5,0.063,12.3,2.8,2.2,1,null,null,null,null,null
+10,1997,Charlotte Sting,Sharon Manning,NC State,null,null,4,114,5.2,0.108,17,4.7,4.2,0.7,null,null,null,null,null
+11,1997,New York Liberty,Sophia Witherspoon,Florida,null,null,7,207,13.9,0.115,23.5,10.7,2.2,1.5,null,null,null,null,null
+12,1997,Utah Starzz,Jessie Hicks,Maryland,null,null,6,169,2.2,0.044,11.7,4.2,2.1,0.5,null,null,null,null,null
+13,1997,Cleveland Rockers,Merlakia Jones,Florida,null,null,8,251,14.3,0.09,25.3,9.4,3.7,1.4,null,null,null,null,null
+14,1997,Los Angeles Sparks,Tamecka Dixon,Kansas,null,null,13,360,22.5,0.095,26.3,9.7,2.9,2.7,null,null,null,null,null
+15,1997,Sacramento Monarchs,Denique Graves,Howard University,null,null,1,22,-0.6,-0.287,3.9,0.7,0.7,0,null,null,null,null,null
+16,1997,Houston Comets,Tammy Jackson,Florida,null,null,6,143,4.4,0.09,13.6,2.8,2.8,0.4,null,null,null,null,null
+17,1997,Houston Comets,Racquel Spurlock,Louisiana Tech,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null
+18,1997,Sacramento Monarchs,Chantel Tremitiere,Auburn,null,null,4,101,-0.8,-0.014,22.5,4.3,2.2,3.1,null,null,null,null,null
+19,1997,Los Angeles Sparks,Katrina Colleton,Maryland,null,null,4,104,0.7,0.013,21,4.9,1.7,1.4,null,null,null,null,null
+20,1997,Cleveland Rockers,Tina Nicholson,Penn State,null,null,1,24,0.1,0.01,11.4,2,0.4,1.8,null,null,null,null,null
+21,1997,Utah Starzz,Raegan Scott,Colorado,null,null,2,30,0.3,0.053,7,1.7,1.2,0.3,null,null,null,null,null
+22,1997,New York Liberty,Trena Trice,NC State,null,null,2,38,1,0.098,11,4.1,2.3,0.1,null,null,null,null,null
+23,1997,Charlotte Sting,Debra Williams,Louisiana Tech,null,null,1,10,-0.2,-0.062,11.6,2.7,1.3,0.9,null,null,null,null,null
+24,1997,Phoenix Mercury,Umeki Webb,NC State,null,null,3,71,3.9,0.086,25.6,4.8,3.5,2.5,null,null,null,null,null
+25,1997,Phoenix Mercury,Monique Ambers,Arizona State,null,null,2,21,0.1,0.035,4.2,0.7,1,0.2,null,null,null,null,null
+26,1997,Charlotte Sting,Andrea Congreaves,Mercer University,null,null,3,84,6.5,0.142,21.9,6,3.6,1.3,null,null,null,null,null
+27,1997,New York Liberty,Kisha Ford,Georgia Tech,null,null,5,124,3.2,0.07,14.6,3.5,1.8,0.7,null,null,null,null,null
+28,1997,Utah Starzz,Kim Williams,DePaul,null,null,2,58,0.3,0.01,19.8,7.8,2.4,1.8,null,null,null,null,null
+29,1997,Cleveland Rockers,Anita Maxwell,New Mexico State,null,null,1,9,-0.1,-0.036,7,2.1,1.3,0.9,null,null,null,null,null
+30,1997,Los Angeles Sparks,Travesa Gant,Lamar,null,null,1,2,-0.1,-0.247,6.5,0,1.5,0,null,null,null,null,null
+31,1997,Sacramento Monarchs,Tajama Abraham,George Washington,null,null,2,40,-0.8,-0.07,11.7,3.5,1.9,0.3,null,null,null,null,null
+32,1997,Houston Comets,Catarina Pollini,Texas,null,null,1,13,0,0.005,7.2,1.7,0.9,0.4,null,null,null,null,null
