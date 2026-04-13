@@ -1,6 +1,7 @@
 # 🏀 WNBA Draft First-Round Prediction Model
 The WNBA Draft Predictor is designed to forecast the top 12 first-round WNBA draft picks based on NCAA player performance data. This project identifies which statistical factors strongly influence draft outcomes based on historical draft data. 
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Andriana444/wnba_prediction_model/badge)](https://scorecard.dev/viewer/?uri=github.com/Andriana444/wnba_prediction_model)
 ---
 ## 🎯Features
 - Full ML Pipeline: feature engineering, preprocessing, and model training
